@@ -1,8 +1,8 @@
-# Obsidian Brain
+# X Bookmarks Brain
 
 ### Wissen, das Verbindungen schafft.
 
-Eine persönliche, laufend gepflegte Wissenssammlung von **guschi18**: Quellen werden zu verknüpften Seiten über Werkzeuge, Menschen, Konzepte und Zusammenhänge. Der Schwerpunkt liegt auf KI-Agenten und Tools; hinzu kommen Produktentwicklung, Forschung, Marketing, Trading und weitere Interessen.
+Aus gespeicherten **X-Bookmarks** wird vernetztes Wissen: eine persönliche, laufend gepflegte Sammlung von **guschi18**, lesbar auf GitHub und als Obsidian-Vault. Die Quellen werden zu verknüpften Seiten über Werkzeuge, Menschen, Konzepte und Zusammenhänge. Der Schwerpunkt liegt auf KI-Agenten und Tools; hinzu kommen Produktentwicklung, Forschung, Marketing, Trading und weitere Interessen.
 
 ![Die tatsächlichen Seiten und Verknüpfungen des Obsidian Brains](assets/brain-map.png)
 
