@@ -6,7 +6,8 @@ Eine persönliche, laufend gepflegte Wissenssammlung von **guschi18**: Quellen w
 
 ![Die tatsächlichen Seiten und Verknüpfungen des Obsidian Brains](assets/brain-map.png)
 
-**861 Inhaltsseiten · 278 Entitäten · 75 Konzepte · 6 Synthesen · 502 Quellen**  
+**861 Inhaltsseiten · 278 Entitäten · 75 Konzepte · 6 Synthesen · 502 Quellen**
+
 Letzte inhaltliche Pflege im enthaltenen Wiki: **2026-10-25**. Das Datum ist kein Beleg für die Aktualität jeder einzelnen Aussage.
 
 [Hier anfangen](START.md) · [Themen entdecken](THEMEN.md) · [Alle Seiten](index.md) · [Aktualität & Quellen](AKTUALITAET.md)

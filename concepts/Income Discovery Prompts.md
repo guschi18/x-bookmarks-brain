@@ -18,7 +18,7 @@ Die Vorlagen lassen vorhandene Skills identifizieren, mögliche Käufer und Ange
 ### Prompt 1: Unterschätzte Skills identifizieren
 
 > Hier ist mein Werdegang: [Dein Werdegang / Lebenslauf einfügen]
-> 
+>
 > Finde die 10 wertvollsten Skills, die ich an mir unterschätze. Erklär mir, warum sie was wert sind, wer dafür zahlen würde und wie KI mir hilft, damit Geld zu machen.
 
 Herkunft: Nutzerergänzung zum Bookmark. [tweet-2104445132779225364](../sources/tweet-2104445132779225364.md)
@@ -32,7 +32,7 @@ Herkunft: Nutzerergänzung zum Bookmark. [tweet-2104445132779225364](../sources/
 ### Prompt 3: Angebots- & Produktideen als Business-Stratege
 
 > Tu so, als wärst du Business-Stratege. Hier ist mein Werdegang: [Dein Werdegang / Lebenslauf einfügen]
-> 
+>
 > Sag mir, welche Services, Beratung, digitalen Produkte oder Freelance-Jobs ich mit meinen Skills anbieten kann.
 
 Herkunft: Nutzerergänzung zum Bookmark. [tweet-2104445132779225364](../sources/tweet-2104445132779225364.md)
