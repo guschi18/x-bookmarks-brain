@@ -57,26 +57,25 @@ Eine Seite kann mehrere Themen haben. Die Grafik zählt die Seiten über Tools, 
 
 Insgesamt 861 Inhaltsseiten. Die zuletzt gepflegte Seite hat den Stand 2026-10-25.
 
-## Eine Aussage bis zur Quelle verfolgen
+## Kurz zur Nutzung
 
-Auf den Wissensseiten führen Quellenlinks zur jeweiligen Zusammenfassung. Dort findest du den Autor, den Originalpost und Links zu gespeicherten Artikeln, soweit vorhanden. So kannst du prüfen, ob ein Tipp zu deinem Vorhaben passt und ob der Originaltext deine Frage beantwortet.
+- Lies das Wiki auf GitHub oder öffne den heruntergeladenen Ordner in Obsidian als Vault. Zusätzliche Plugins brauchst du nicht. [Anleitung](START.md)
+- Die Seiten enthalten Zusammenfassungen und Originallinks. Angaben können veraltet sein; vollständige Fremdtexte und Originalmedien sind nicht enthalten. [Quellenstand](AKTUALITAET.md)
+- Updates holst du mit `git pull --ff-only` oder einem neuen ZIP. Sichere eigene Notizen vorher separat.
+- Es gilt keine pauschale offene Lizenz. [Nutzung und Rechte](NUTZUNG.md)
 
-Die Auswahl ist persönlich. Herstellerangaben und Erfahrungsberichte sind keine unabhängigen Tests. Preise, Versionen und andere Angaben können veraltet sein; das Pflegedatum einer Seite bestätigt nicht jede Aussage erneut. Hinweise dazu stehen unter [Aktualität und Quellen](AKTUALITAET.md).
+## Mit einem KI-Agenten auf deinen PC holen
 
-## Das Wiki in Obsidian nutzen
+Kopiere diesen Auftrag in deinen Coding-Agenten:
 
-Lade das Repository herunter und öffne den Ordner als Vault. Du kannst dann die Volltextsuche, Rückverweise und den Graphen von Obsidian verwenden. Zusätzliche Plugins oder API-Schlüssel brauchst du zum Lesen nicht. Die [Schritt-für-Schritt-Anleitung](START.md) führt dich durch den Download.
-
-Die Seiten verwenden relative Markdown-Links und lassen sich auch direkt auf GitHub lesen.
-
-## Aktuell bleiben
-
-Ich pflege die Sammlung weiter. Neue Stände ergänzen und überarbeiten Seiten; dabei können Seiten auch umbenannt werden oder entfallen. Die Commit-Historie auf GitHub zeigt dir die Änderungen.
-
-Bei einem Clone holt `git pull --ff-only` den neuesten Stand. Ein ZIP aktualisiert sich nicht selbst: Lade bei Bedarf eine neue Ausgabe herunter. Halte eigene Notizen separat oder sichere sie vor einem Update, damit sie nicht mit Änderungen dieser Sammlung kollidieren.
-
-## Welche Inhalte mitgeliefert werden
-
-Die Quellenseiten enthalten Zusammenfassungen und Links. Vollständige gespeicherte Fremdtexte, Transkripte und Originalbilder gehören nicht zu dieser Ausgabe. Wenn eine Seite auf einen vollständigen Wortlaut im Archiv verweist, folge für diese Ausgabe dem Originallink.
-
-Für die Sammlung ist derzeit keine pauschale offene Lizenz vergeben. Einzelheiten stehen unter [Nutzung und Rechte](NUTZUNG.md).
+```text
+Hole https://github.com/guschi18/x-bookmarks-brain auf meinen PC.
+Klone das Repository in einen neuen Ordner namens x-bookmarks-brain
+in meinem Benutzerordner. Falls der Name schon existiert, wähle einen
+freien Namen und überschreibe nichts.
+Falls Git fehlt, lade stattdessen das ZIP herunter und entpacke es dort.
+Installiere keine zusätzlichen Programme. Wenn der Zugriff scheitert,
+melde es mir.
+Nenne mir anschließend den vollständigen Ordnerpfad und erkläre kurz,
+wie ich diesen Ordner in Obsidian als Vault öffne.
+```
