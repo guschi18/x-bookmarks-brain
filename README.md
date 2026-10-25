@@ -66,16 +66,17 @@ Insgesamt 861 Inhaltsseiten. Die zuletzt gepflegte Seite hat den Stand 2026-10-2
 
 ## Mit einem KI-Agenten auf deinen PC holen
 
-Kopiere diesen Auftrag in deinen Coding-Agenten:
-
-```text
-Hole https://github.com/guschi18/x-bookmarks-brain auf meinen PC.
-Klone das Repository in einen neuen Ordner namens x-bookmarks-brain
-in meinem Benutzerordner. Falls der Name schon existiert, wähle einen
-freien Namen und überschreibe nichts.
-Falls Git fehlt, lade stattdessen das ZIP herunter und entpacke es dort.
-Installiere keine zusätzlichen Programme. Wenn der Zugriff scheitert,
-melde es mir.
-Nenne mir anschließend den vollständigen Ordnerpfad und erkläre kurz,
-wie ich diesen Ordner in Obsidian als Vault öffne.
-```
+> [!TIP]
+> Kopiere diesen Auftrag in deinen Coding-Agenten:
+>
+> ```text
+> Hole https://github.com/guschi18/x-bookmarks-brain auf meinen PC.
+> Klone das Repository in einen neuen Ordner namens x-bookmarks-brain
+> in meinem Benutzerordner. Falls der Name schon existiert, wähle einen
+> freien Namen und überschreibe nichts.
+> Falls Git fehlt, lade stattdessen das ZIP herunter und entpacke es dort.
+> Installiere keine zusätzlichen Programme. Wenn der Zugriff scheitert,
+> melde es mir.
+> Nenne mir anschließend den vollständigen Ordnerpfad und erkläre kurz,
+> wie ich diesen Ordner in Obsidian als Vault öffne.
+> ```
