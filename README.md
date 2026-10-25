@@ -1,66 +1,82 @@
 # X Bookmarks Brain
 
-### Wissen, das Verbindungen schafft.
+Finde Tools und Methoden für deine Arbeit mit KI-Agenten.
 
-Aus gespeicherten **X-Bookmarks** wird vernetztes Wissen: eine persönliche, laufend gepflegte Sammlung von **guschi18**, lesbar auf GitHub und als Obsidian-Vault. Die Quellen werden zu verknüpften Seiten über Werkzeuge, Menschen, Konzepte und Zusammenhänge. Der Schwerpunkt liegt auf KI-Agenten und Tools; hinzu kommen Produktentwicklung, Forschung, Marketing, Trading und weitere Interessen.
+Hier findest du meine gespeicherten X-Posts als Wiki: mit Zusammenfassungen, Seiten zu einzelnen Tools und Methoden sowie Links zu den Originalquellen. Du kannst ein Thema nachschlagen, verwandte Werkzeuge entdecken und bei einer Aussage nachlesen, worauf sie sich stützt.
 
-![Die tatsächlichen Seiten und Verknüpfungen des Obsidian Brains](assets/brain-map.png)
+Die meisten Seiten beschäftigen sich mit KI-Agenten und Tools. Daneben sammle ich Beiträge zu Produktentwicklung, Marketing, Forschung, Trading und weiteren Interessen. Du kannst die Sammlung hier auf GitHub lesen oder als Vault in Obsidian öffnen.
 
-**861 Inhaltsseiten · 278 Entitäten · 75 Konzepte · 6 Synthesen · 502 Quellen**
+[Themen durchsuchen](THEMEN.md) · [Alle Seiten](index.md) · [In Obsidian öffnen](START.md)
 
-Letzte inhaltliche Pflege im enthaltenen Wiki: **2026-10-25**. Das Datum ist kein Beleg für die Aktualität jeder einzelnen Aussage.
+![Seiten und Links im X Bookmarks Brain](assets/brain-map.png)
 
-[Hier anfangen](START.md) · [Themen entdecken](THEMEN.md) · [Alle Seiten](index.md) · [Aktualität & Quellen](AKTUALITAET.md)
+## Womit du anfangen kannst
 
-## Vom gespeicherten Post zum vernetzten Wissen
+### Coding-Agenten einsetzen
 
-Ein Bookmark ist zunächst eine einzelne Quelle. Dieses Brain verbindet seine Inhalte mit passenden Themen: Ein Werkzeug landet auf einer Entitätsseite, ein wiederkehrendes Muster auf einer Konzeptseite. Quellenverweise machen die Herkunft nachvollziehbar; Synthesen führen mehrere Perspektiven zusammen.
+Lies nach, welche Rolle Claude Code übernimmt und welche Arbeitsweisen unter Agentic Engineering gesammelt sind.
 
-So lässt sich von einer Frage zu einem Konzept, von dort zu einem konkreten Werkzeug und schließlich zur ursprünglichen Quelle navigieren. Die Sammlung ist persönlich kuratiert und quellenbasiert; eine unabhängige Prüfung sämtlicher Behauptungen ist damit nicht verbunden.
+[Claude Code](entities/Claude%20Code.md) · [Agentic Engineering](concepts/Agentic%20Engineering.md)
 
-## Was du hier findest
+### Kontext und Wissen für Agenten organisieren
 
-| Ebene | Inhalt | Umfang |
+Hier findest du Ansätze für Kontextverwaltung und ein Wiki als Gedächtnis für Agenten.
+
+[Context Engineering](concepts/Context%20Engineering.md) · [LLM Wiki Pattern](concepts/LLM%20Wiki%20Pattern.md)
+
+### Mit KI Produkte gestalten
+
+Diese Seiten behandeln Designvorgaben und Skills für Gestaltungsaufgaben.
+
+[Design Markdown](entities/Design%20Markdown.md) · [Design Skills for Coding Agents](concepts/Design%20Skills%20for%20Coding%20Agents.md)
+
+### Marketing-Ideen nachschlagen
+
+Stöbere in einer Taktikensammlung und sieh dir an, welche Aufgaben Marketing-Skills abdecken.
+
+[Vibe Marketing Tactics](concepts/Vibe%20Marketing%20Tactics.md) · [Aaron Marketing Skills](entities/Aaron%20Marketing%20Skills.md)
+
+### Lesestoff zu KI und Data Science finden
+
+Die Leseliste führt zu Büchern und den zugehörigen Quellen.
+
+[AI and Data Science Reading List](synthesis/AI%20and%20Data%20Science%20Reading%20List.md)
+
+## Was die Sammlung abdeckt
+
+![Seiten pro Thema](assets/topics.png)
+
+Eine Seite kann mehrere Themen haben. Die Grafik zählt die Seiten über Tools, Konzepte und Zusammenstellungen; die separaten Quellenzusammenfassungen kommen hinzu.
+
+| Hier kannst du nachschlagen | Inhalt | Seiten |
 | --- | --- | ---: |
-| [Entitäten](index.md#entitäten) | Produkte, Tools, Organisationen und Personen | 278 |
-| [Konzepte](index.md#konzepte) | Ideen, Methoden und wiederkehrende Muster | 75 |
-| [Synthesen](index.md#synthesen) | Verbindungen und Zusammenstellungen über einzelne Seiten hinaus | 6 |
-| [Quellen](index.md#quellen) | Zusammenfassungen mit Verweisen auf die Originale | 502 |
+| [Tools und Personen](index.md#entitäten) | Auch Produkte und Organisationen | 278 |
+| [Konzepte und Methoden](index.md#konzepte) | Erklärungen und Arbeitsweisen | 75 |
+| [Leselisten und Zusammenstellungen](index.md#synthesen) | Beiträge zu einem gemeinsamen Thema | 6 |
+| [Quellen](index.md#quellen) | Zusammenfassungen mit Originallinks | 502 |
 
-![Thematische Verteilung der Wissensseiten](assets/topics.png)
+Insgesamt 861 Inhaltsseiten. Die zuletzt gepflegte Seite hat den Stand 2026-10-25.
 
-Die Themen überschneiden sich: Eine Seite kann mehrere Tags tragen. Die Grafik zählt Wissensseiten ohne die separaten Quellenzusammenfassungen. Sie zeigt die Schwerpunkte dieser Sammlung, keine Rangliste der Fachgebiete.
+## Eine Aussage bis zur Quelle verfolgen
 
-## Drei Einstiege
+Auf den Wissensseiten führen Quellenlinks zur jeweiligen Zusammenfassung. Dort findest du den Autor, den Originalpost und Links zu gespeicherten Artikeln, soweit vorhanden. So kannst du prüfen, ob ein Tipp zu deinem Vorhaben passt und ob der Originaltext deine Frage beantwortet.
 
-### Agenten & Kontext
+Die Auswahl ist persönlich. Herstellerangaben und Erfahrungsberichte sind keine unabhängigen Tests. Preise, Versionen und andere Angaben können veraltet sein; das Pflegedatum einer Seite bestätigt nicht jede Aussage erneut. Hinweise dazu stehen unter [Aktualität und Quellen](AKTUALITAET.md).
 
-[Context Engineering](concepts/Context%20Engineering.md) → [Agentic Engineering](concepts/Agentic%20Engineering.md) → [LLM Wiki Pattern](concepts/LLM%20Wiki%20Pattern.md)
+## Das Wiki in Obsidian nutzen
 
-### Werkzeuge & Produktentwicklung
+Lade das Repository herunter und öffne den Ordner als Vault. Du kannst dann die Volltextsuche, Rückverweise und den Graphen von Obsidian verwenden. Zusätzliche Plugins oder API-Schlüssel brauchst du zum Lesen nicht. Die [Schritt-für-Schritt-Anleitung](START.md) führt dich durch den Download.
 
-[Claude Code](entities/Claude%20Code.md) → [Design Markdown](entities/Design%20Markdown.md) → [Design Skills for Coding Agents](concepts/Design%20Skills%20for%20Coding%20Agents.md)
-
-### Quellen & Vergleiche
-
-[AI and Data Science Reading List](synthesis/AI%20and%20Data%20Science%20Reading%20List.md) → [AI Engineering and Design Accounts](synthesis/AI%20Engineering%20and%20Design%20Accounts.md) → [AI Learning Accounts](synthesis/AI%20Learning%20Accounts.md) → [Free Ebook Resources](synthesis/Free%20Ebook%20Resources.md)
-
-## In Obsidian öffnen
-
-1. Auf GitHub **Code → Download ZIP** wählen und das ZIP entpacken. Alternativ dieses öffentliche Repository klonen.
-2. In Obsidian **Ordner als Vault öffnen** wählen und den entpackten Repository-Ordner öffnen.
-3. Mit **START.md** beginnen. Suche, Rückverweise und Graph helfen beim Erkunden.
-
-Die Seiten verwenden relative Markdown-Links. Dadurch lassen sie sich auf GitHub und in Obsidian lesen. Zusätzliche Plugins, Konten oder API-Schlüssel sind zum Lesen nicht erforderlich.
+Die Seiten verwenden relative Markdown-Links und lassen sich auch direkt auf GitHub lesen.
 
 ## Aktuell bleiben
 
-Dieses Repository ist die veröffentlichte Ausgabe des Brains. Neue freigegebene Stände ersetzen und ergänzen die Seiten; entfernte Seiten werden ebenfalls übernommen. Die Git-Historie zeigt die Änderungen zwischen veröffentlichten Ständen.
+Ich pflege die Sammlung weiter. Neue Stände ergänzen und überarbeiten Seiten; dabei können Seiten auch umbenannt werden oder entfallen. Die Commit-Historie auf GitHub zeigt dir die Änderungen.
 
-Bei einem Clone holt `git pull --ff-only` den neuesten Stand. Eigene Notizen am besten in einem separaten Vault halten oder separat sichern, damit Aktualisierungen nicht mit eigenen Änderungen kollidieren. Ein ZIP aktualisiert sich nicht selbst; lade bei Bedarf eine neue Ausgabe herunter.
+Bei einem Clone holt `git pull --ff-only` den neuesten Stand. Ein ZIP aktualisiert sich nicht selbst: Lade bei Bedarf eine neue Ausgabe herunter. Halte eigene Notizen separat oder sichere sie vor einem Update, damit sie nicht mit Änderungen dieser Sammlung kollidieren.
 
-## Quellen, Grenzen und Nutzung
+## Welche Inhalte mitgeliefert werden
 
-Öffentliche Quellenseiten enthalten redaktionelle Zusammenfassungen, Links und Zuordnungen. Vollständige gespeicherte Fremdtexte, Transkripte und Originalbilder werden nicht mitgeliefert. Aussagen bleiben vom jeweiligen Quellenstand abhängig; insbesondere Herstellerbehauptungen und persönliche Erfahrungsberichte sind entsprechend einzuordnen.
+Die Quellenseiten enthalten Zusammenfassungen und Links. Vollständige gespeicherte Fremdtexte, Transkripte und Originalbilder gehören nicht zu dieser Ausgabe. Wenn eine Seite auf einen vollständigen Wortlaut im Archiv verweist, folge für diese Ausgabe dem Originallink.
 
-Mehr dazu: [Aktualität und Evidenz](AKTUALITAET.md) · [Nutzung und Rechte](NUTZUNG.md).
+Für die Sammlung ist derzeit keine pauschale offene Lizenz vergeben. Einzelheiten stehen unter [Nutzung und Rechte](NUTZUNG.md).

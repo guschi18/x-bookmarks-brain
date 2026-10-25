@@ -1,10 +1,10 @@
-# Die Themen des Brains
+# Themen durchsuchen
 
 [Start](README.md) · [Alle Seiten](index.md)
 
-![Thematische Schwerpunkte](assets/topics.png)
+![Seiten pro Thema](assets/topics.png)
 
-Seiten können mehrere Tags tragen. Die Zuordnung folgt der Kuratierung des Brains.
+Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten erscheinen in mehreren Abschnitten, weil sie mehrere Themen behandeln.
 
 ## Tools
 
