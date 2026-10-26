@@ -1,8 +1,8 @@
 ---
 tags: [agents, tools]
-sources: [tweet-2108245653843509415.md, tweet-2112308732872819104.md]
+sources: [tweet-2108245653843509415.md, tweet-2112308732872819104.md, tweet-2114160336114954401.md]
 created: 2026-10-12
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 # REA
@@ -44,3 +44,7 @@ Nachbau prüfen:
 > Compare <MY IMPLEMENTATION> with the observed behavior of <ORIGINAL APPLICATION>. Use verify_reconstruction, if available. Check results, errors, limits and state transitions. Present passing cases, divergences and behaviors not yet tested. Do not consider equivalence demonstrated just because a few examples passed. [tweet-2112308732872819104](../sources/tweet-2112308732872819104.md)
 
 Evidenzgrenze: Die Prompts wurden hier nicht ausgeführt; ihre Wirksamkeit ist nicht belegt. Es handelt sich um die Sammlung eines Drittautors, nicht um offizielle REA-Dokumentation. [tweet-2112308732872819104](../sources/tweet-2112308732872819104.md)
+
+## Alternative: leanrea (Stand 2026-10)
+
+leanrea (github.com/aicodeking/leanrea) ist ein 8-KB-Skill, der dem Agenten sagt, welche CLI-Tools er je Zieltyp nutzt (asar, otool, nm, go version -m, jadx, apktool, tshark, sqlite3), statt eine MCP-Schicht mit 207 Tools zu laden. Die README berichtet im eigenen Benchmark (Sonnet 5.5, 4 Aufgaben x 3 Läufe) gegenüber REA 38 % weniger Laufzeit, 35 % geringere Kosten und 60 % weniger Tokens bei 74/75 gegen 75/75 Punkten. Die Autoren nennen nur 3 Läufe pro Zelle, ein Modell und einen Rechner; REA ist als Referenz im Bestfall mit Tool-Suche getestet. Vergleichszahlen eines Konkurrenzprojekts, nicht nachgemessen. [tweet-2114160336114954401](../sources/tweet-2114160336114954401.md)

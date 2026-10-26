@@ -1,8 +1,8 @@
 ---
 tags: [agents, tools]
-sources: [tweet-2106455605925822967.md, tweet-2106412212978098295.md, tweet-2106143340794454346.md, tweet-2106118517447876618.md, tweet-2105721441622884802.md, tweet-2113026278504755415.md, tweet-2109822699174559748.md]
+sources: [tweet-2106455605925822967.md, tweet-2106412212978098295.md, tweet-2106143340794454346.md, tweet-2106118517447876618.md, tweet-2105721441622884802.md, tweet-2113026278504755415.md, tweet-2109822699174559748.md, tweet-2113949078866518310.md]
 created: 2026-10-04
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 # Claude Code Mods
@@ -67,3 +67,9 @@ Evidenzgrenze: Das gespeicherte Demo-Video hat kein Transkript. Der Zusammenhang
 Daniel San beschreibt Turn Inspector als Mod, der pro Turn aufschlüsselt, woraus das Kontextfenster von [Claude Code](Claude%20Code.md) besteht: Systemprompt, Tools, Memory, vorherige Turns, Modellausgabe und Tool-Ergebnisse. Ziel ist zu sehen, wohin die Tokens einer Sitzung gehen. Installation: npx claude-code-templates@latest --mod ui/turn-inspector. [tweet-2109822699174559748](../sources/tweet-2109822699174559748.md)
 
 Die gespeicherte README zeigt den Mod-Installationsweg der Vorlagensammlung claude-code-templates; die Mod-Funktion selbst wird nur im Post beschrieben. Das Demo-Video hat kein Transkript, Messungen fehlen. Hintergrund zur Kontextaufteilung: [Context Engineering](../concepts/Context%20Engineering.md). [tweet-2109822699174559748](../sources/tweet-2109822699174559748.md)
+
+## Ultra Config (Stand 2026-10)
+
+Robert Youssef beschreibt Ultra Config als Mod, der Modell, Effort-Stufe, Berechtigungen und Subagents von [Claude Code](Claude%20Code.md) über ein Profil umschaltet, auch mitten in der Sitzung. Fünf Profile: Token Saver (Sonnet, niedriger Effort, Haiku-Subagents), Fast Flow (automatisch genehmigte Edits), Max Quality (stärkstes Modell, maximaler Effort), Guarded (Freigabe pro Edit, eingeschränkter Zugriff auf Secrets) und Autopilot (lange unbeaufsichtigte Sitzungen mit Push-Benachrichtigungen). Installation: npx claude-code-templates@latest --mod productivity/ultra-config, dann /ultra-config. [tweet-2113949078866518310](../sources/tweet-2113949078866518310.md)
+
+Evidenzgrenze: Das Video hat kein Transkript; die Profilwirkung ist eine Beschreibung des Posts ohne Messung. Verwandt: [Adaptive Reasoning Effort](../concepts/Adaptive%20Reasoning%20Effort.md). [tweet-2113949078866518310](../sources/tweet-2113949078866518310.md)

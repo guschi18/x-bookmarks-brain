@@ -1,16 +1,16 @@
 {
-  "pages": 861,
-  "sources": 502,
-  "edges": 2448,
-  "updated": "2026-10-25",
+  "pages": 866,
+  "sources": 506,
+  "edges": 2460,
+  "updated": "2026-10-26",
   "topics": [
     {
       "tag": "tools",
-      "count": 684
+      "count": 687
     },
     {
       "tag": "agents",
-      "count": 630
+      "count": 633
     },
     {
       "tag": "product-building",
@@ -30,7 +30,7 @@
     },
     {
       "tag": "security",
-      "count": 45
+      "count": 48
     },
     {
       "tag": "trading",
@@ -68,7 +68,7 @@
     },
     {
       "tag": "security",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "trading",
@@ -621,7 +621,7 @@
         "agents",
         "tools"
       ],
-      "degree": 23,
+      "degree": 26,
       "path": "entities/Claude Code Mods.md"
     },
     {
@@ -642,7 +642,7 @@
         "agents",
         "tools"
       ],
-      "degree": 299,
+      "degree": 301,
       "path": "entities/Claude Code.md"
     },
     {
@@ -2374,7 +2374,7 @@
         "agents",
         "tools"
       ],
-      "degree": 5,
+      "degree": 7,
       "path": "entities/REA.md"
     },
     {
@@ -2995,7 +2995,7 @@
         "agents",
         "tools"
       ],
-      "degree": 10,
+      "degree": 11,
       "path": "concepts/Adaptive Reasoning Effort.md"
     },
     {
@@ -3211,7 +3211,7 @@
         "agents",
         "tools"
       ],
-      "degree": 10,
+      "degree": 13,
       "path": "concepts/Claude Code Security Hardening.md"
     },
     {
@@ -3600,6 +3600,15 @@
       ],
       "degree": 5,
       "path": "concepts/Performance Optimization Ratchets.md"
+    },
+    {
+      "name": "Personal Cybersecurity Baseline",
+      "group": "concepts",
+      "tags": [
+        "security"
+      ],
+      "degree": 3,
+      "path": "concepts/Personal Cybersecurity Baseline.md"
     },
     {
       "name": "Personalized LLM Workflows",
@@ -8975,6 +8984,16 @@
       "path": "sources/tweet-2113741692176355455.md"
     },
     {
+      "name": "tweet-2113949078866518310",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 3,
+      "path": "sources/tweet-2113949078866518310.md"
+    },
+    {
       "name": "tweet-2113990583241125942",
       "group": "sources",
       "tags": [
@@ -8993,6 +9012,36 @@
       ],
       "degree": 2,
       "path": "sources/tweet-2113997690845503966.md"
+    },
+    {
+      "name": "tweet-2114023867916112257",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools",
+        "security"
+      ],
+      "degree": 3,
+      "path": "sources/tweet-2114023867916112257.md"
+    },
+    {
+      "name": "tweet-2114050517940990303",
+      "group": "sources",
+      "tags": [
+        "security"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2114050517940990303.md"
+    },
+    {
+      "name": "tweet-2114160336114954401",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2114160336114954401.md"
     }
   ],
   "links": [
@@ -10990,6 +11039,10 @@
     ],
     [
       "Claude Code Mods",
+      "Adaptive Reasoning Effort"
+    ],
+    [
+      "Claude Code Mods",
       "Claude Code"
     ],
     [
@@ -11037,6 +11090,10 @@
       "tweet-2113026278504755415"
     ],
     [
+      "Claude Code Mods",
+      "tweet-2113949078866518310"
+    ],
+    [
       "Claude Code Security Hardening",
       "Claude Code"
     ],
@@ -11051,6 +11108,10 @@
     [
       "Claude Code Security Hardening",
       "tweet-2110974023299699003"
+    ],
+    [
+      "Claude Code Security Hardening",
+      "tweet-2114023867916112257"
     ],
     [
       "Claude Code Video Toolkit",
@@ -14333,6 +14394,14 @@
       "tweet-2102839691154427983"
     ],
     [
+      "Personal Cybersecurity Baseline",
+      "Claude Code Security Hardening"
+    ],
+    [
+      "Personal Cybersecurity Baseline",
+      "tweet-2114050517940990303"
+    ],
+    [
       "Personalized LLM Workflows",
       "Agent Unknowns"
     ],
@@ -14619,6 +14688,10 @@
     [
       "REA",
       "tweet-2112308732872819104"
+    ],
+    [
+      "REA",
+      "tweet-2114160336114954401"
     ],
     [
       "Reclip",
@@ -18777,6 +18850,14 @@
       "System One Computer Use"
     ],
     [
+      "tweet-2113949078866518310",
+      "Claude Code"
+    ],
+    [
+      "tweet-2113949078866518310",
+      "Claude Code Mods"
+    ],
+    [
       "tweet-2113990583241125942",
       "Context Engineering"
     ],
@@ -18787,6 +18868,22 @@
     [
       "tweet-2113997690845503966",
       "FilmCraft"
+    ],
+    [
+      "tweet-2114023867916112257",
+      "Claude Code"
+    ],
+    [
+      "tweet-2114023867916112257",
+      "Claude Code Security Hardening"
+    ],
+    [
+      "tweet-2114050517940990303",
+      "Personal Cybersecurity Baseline"
+    ],
+    [
+      "tweet-2114160336114954401",
+      "REA"
     ]
   ]
 }

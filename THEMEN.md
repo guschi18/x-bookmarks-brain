@@ -845,7 +845,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Sicherheit
 
-22 Wissensseiten · Tag `security`
+23 Wissensseiten · Tag `security`
 
 - [AI Sovereignty](concepts/AI%20Sovereignty.md)
 - [Awesome CAN Bus](entities/Awesome%20CAN%20Bus.md)
@@ -867,6 +867,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [OpenShell](entities/OpenShell.md)
 - [OpenVPN Install](entities/OpenVPN%20Install.md)
 - [Paperclip](entities/Paperclip.md)
+- [Personal Cybersecurity Baseline](concepts/Personal%20Cybersecurity%20Baseline.md)
 - [Supabase](entities/Supabase.md)
 - [The Book of Secret Knowledge](entities/The%20Book%20of%20Secret%20Knowledge.md)
 

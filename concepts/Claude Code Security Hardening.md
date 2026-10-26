@@ -1,8 +1,8 @@
 ---
 tags: [security, agents, tools]
-sources: [tweet-2042086577636061436.md, tweet-2110974023299699003.md]
+sources: [tweet-2042086577636061436.md, tweet-2110974023299699003.md, tweet-2114023867916112257.md]
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 # Claude Code Security Hardening
@@ -37,3 +37,9 @@ Die Deny-Liste ist ein Beispiel aus dem Artikel, keine geprüfte Sicherheitskonf
 Der Supabase-CTO nennt als häufigsten Anfängerfehler, den Agenten vor dem Produktivgang nicht um einfache Sicherheitstests zu bitten. Sein Vorschlag: das beste verfügbare Modell fragen, wie ein Angreifer dieses Projekt auf zehn Wegen brechen würde, und prüfen, ob der Schutz greift; dazu eine Regel, die diese Prüfung bei jedem Merge nach main auslöst. Das kostet Tokens und fängt laut ihm vor allem leicht erreichbare Lücken. [tweet-2110974023299699003](../sources/tweet-2110974023299699003.md)
 
 Für Datenzugriff empfiehlt er eine Read Replica für Analysen und Datenbank-Branching für Entwicklungszweige, damit Agentenfehler die Produktivdaten nicht erreichen. Frühere Modelle hätten für schnelle Ergebnisse RLS abgeschaltet; das sei inzwischen besser. Das sind Erfahrungsaussagen des Gasts und keine geprüfte Konfiguration. Einordnung: [Supabase](../entities/Supabase.md). [tweet-2110974023299699003](../sources/tweet-2110974023299699003.md)
+
+## Stripe-MCP: Schreibaktionen bestätigen (Stand 2026-10)
+
+Daniel San beschreibt für den Stripe-MCP-Server (mcp.stripe.com), dass Lesetools harmlos sind, Schreibtools wie Rückerstattungen, Abos oder Treasury-Transfers aber vom Modell nicht anders behandelt werden. Er nennt die Einstellung permissions/stripe-mcp-confirm-writes aus Claude Code Templates, die eine Bestätigung vor Schreibaktionen erzwingen soll, auch im Auto-Modus: npx claude-code-templates@latest --mcp devtools/stripe --skill development/stripe-integration --setting permissions/stripe-mcp-confirm-writes. [tweet-2114023867916112257](../sources/tweet-2114023867916112257.md)
+
+Evidenzgrenze: Der gespeicherte Artikeltext bricht nach der Einleitung ab; Regelwortlaut und Auto-Modus-Verhalten sind nicht belegt und nicht getestet. [tweet-2114023867916112257](../sources/tweet-2114023867916112257.md)
