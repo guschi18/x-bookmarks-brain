@@ -1,24 +1,24 @@
 {
-  "pages": 866,
-  "sources": 506,
-  "edges": 2460,
-  "updated": "2026-10-26",
+  "pages": 880,
+  "sources": 514,
+  "edges": 2490,
+  "updated": "2026-10-27",
   "topics": [
     {
       "tag": "tools",
-      "count": 687
+      "count": 696
     },
     {
       "tag": "agents",
-      "count": 633
+      "count": 646
     },
     {
       "tag": "product-building",
-      "count": 310
+      "count": 312
     },
     {
       "tag": "research",
-      "count": 154
+      "count": 157
     },
     {
       "tag": "llm-training",
@@ -44,19 +44,19 @@
   "knowledge_topics": [
     {
       "tag": "tools",
-      "count": 296
+      "count": 300
     },
     {
       "tag": "agents",
-      "count": 247
+      "count": 253
     },
     {
       "tag": "product-building",
-      "count": 133
+      "count": 134
     },
     {
       "tag": "research",
-      "count": 67
+      "count": 68
     },
     {
       "tag": "llm-training",
@@ -195,6 +195,16 @@
       ],
       "degree": 2,
       "path": "entities/Agentic Inbox.md"
+    },
+    {
+      "name": "Agentloop",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 3,
+      "path": "entities/Agentloop.md"
     },
     {
       "name": "Agentlytics",
@@ -437,6 +447,16 @@
       "path": "entities/Baguette.md"
     },
     {
+      "name": "BAND",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 4,
+      "path": "entities/BAND.md"
+    },
+    {
       "name": "Bb",
       "group": "entities",
       "tags": [
@@ -571,6 +591,16 @@
       "path": "entities/Chops.md"
     },
     {
+      "name": "Chrome DevTools MCP",
+      "group": "entities",
+      "tags": [
+        "tools",
+        "agents"
+      ],
+      "degree": 3,
+      "path": "entities/Chrome DevTools MCP.md"
+    },
+    {
       "name": "Cinetic",
       "group": "entities",
       "tags": [
@@ -642,7 +672,7 @@
         "agents",
         "tools"
       ],
-      "degree": 301,
+      "degree": 302,
       "path": "entities/Claude Code.md"
     },
     {
@@ -1386,6 +1416,16 @@
       ],
       "degree": 5,
       "path": "entities/Hugging Face Agents Course.md"
+    },
+    {
+      "name": "HumanLayer",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 4,
+      "path": "entities/HumanLayer.md"
     },
     {
       "name": "HyperFrames",
@@ -2583,7 +2623,7 @@
         "tools",
         "product-building"
       ],
-      "degree": 3,
+      "degree": 7,
       "path": "entities/Spec Kit.md"
     },
     {
@@ -3076,7 +3116,7 @@
         "agents",
         "product-building"
       ],
-      "degree": 110,
+      "degree": 117,
       "path": "concepts/Agentic Engineering.md"
     },
     {
@@ -3150,7 +3190,7 @@
         "tools",
         "product-building"
       ],
-      "degree": 50,
+      "degree": 54,
       "path": "concepts/AI Coding Cost Claims.md"
     },
     {
@@ -3221,7 +3261,7 @@
         "agents",
         "tools"
       ],
-      "degree": 4,
+      "degree": 5,
       "path": "concepts/Claude Skills Guide.md"
     },
     {
@@ -3723,6 +3763,26 @@
       ],
       "degree": 10,
       "path": "concepts/Software 3.0.md"
+    },
+    {
+      "name": "Spec-Driven Development",
+      "group": "concepts",
+      "tags": [
+        "agents",
+        "research"
+      ],
+      "degree": 5,
+      "path": "concepts/Spec-Driven Development.md"
+    },
+    {
+      "name": "Subagent Consolidation",
+      "group": "concepts",
+      "tags": [
+        "agents",
+        "product-building"
+      ],
+      "degree": 6,
+      "path": "concepts/Subagent Consolidation.md"
     },
     {
       "name": "Typed Decision Layer",
@@ -9042,6 +9102,85 @@
       ],
       "degree": 2,
       "path": "sources/tweet-2114160336114954401.md"
+    },
+    {
+      "name": "tweet-2114345977108996583",
+      "group": "sources",
+      "tags": [
+        "research"
+      ],
+      "degree": 0,
+      "path": "sources/tweet-2114345977108996583.md"
+    },
+    {
+      "name": "tweet-2114392468313563567",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2114392468313563567.md"
+    },
+    {
+      "name": "tweet-2114401602450706524",
+      "group": "sources",
+      "tags": [
+        "tools",
+        "agents"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2114401602450706524.md"
+    },
+    {
+      "name": "tweet-2114403120377626859",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2114403120377626859.md"
+    },
+    {
+      "name": "tweet-2114420226725204453",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "product-building"
+      ],
+      "degree": 4,
+      "path": "sources/tweet-2114420226725204453.md"
+    },
+    {
+      "name": "tweet-2114486060730237224",
+      "group": "sources",
+      "tags": [
+        "research",
+        "agents"
+      ],
+      "degree": 4,
+      "path": "sources/tweet-2114486060730237224.md"
+    },
+    {
+      "name": "tweet-2114710991317750246",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2114710991317750246.md"
+    },
+    {
+      "name": "tweet-2114724983297528249",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2114724983297528249.md"
     }
   ],
   "links": [
@@ -9227,6 +9366,10 @@
     ],
     [
       "AI Coding Cost Claims",
+      "Subagent Consolidation"
+    ],
+    [
+      "AI Coding Cost Claims",
       "tweet-2052306848221680015"
     ],
     [
@@ -9284,6 +9427,10 @@
     [
       "AI Coding Cost Claims",
       "tweet-2103920741481848861"
+    ],
+    [
+      "AI Coding Cost Claims",
+      "tweet-2114420226725204453"
     ],
     [
       "AI Coding Dictionary",
@@ -9866,6 +10013,10 @@
       "tweet-2112219173288120531"
     ],
     [
+      "Agentic Engineering",
+      "tweet-2114724983297528249"
+    ],
+    [
       "Agentic Inbox",
       "tweet-2098941338297458746"
     ],
@@ -10076,6 +10227,14 @@
     [
       "Agentic Video Production",
       "tweet-2112180280110776797"
+    ],
+    [
+      "Agentloop",
+      "Agentic Engineering"
+    ],
+    [
+      "Agentloop",
+      "tweet-2114392468313563567"
     ],
     [
       "Agentlytics",
@@ -10290,6 +10449,18 @@
       "tweet-2098410941104677108"
     ],
     [
+      "BAND",
+      "Agentic Engineering"
+    ],
+    [
+      "BAND",
+      "HumanLayer"
+    ],
+    [
+      "BAND",
+      "tweet-2114710991317750246"
+    ],
+    [
       "Backpass",
       "AutoHarness"
     ],
@@ -10480,6 +10651,14 @@
     [
       "Chops",
       "tweet-2112922431237062936"
+    ],
+    [
+      "Chrome DevTools MCP",
+      "Claude Code"
+    ],
+    [
+      "Chrome DevTools MCP",
+      "tweet-2114401602450706524"
     ],
     [
       "Cinetic",
@@ -12806,6 +12985,14 @@
       "tweet-2092962596626235509"
     ],
     [
+      "HumanLayer",
+      "Agentic Engineering"
+    ],
+    [
+      "HumanLayer",
+      "tweet-2114403120377626859"
+    ],
+    [
       "HyperFrames",
       "Agentic Video Production"
     ],
@@ -15059,7 +15246,27 @@
     ],
     [
       "Spec Kit",
+      "Spec-Driven Development"
+    ],
+    [
+      "Spec Kit",
       "tweet-2052753384503922855"
+    ],
+    [
+      "Spec Kit",
+      "tweet-2114486060730237224"
+    ],
+    [
+      "Spec-Driven Development",
+      "Agentic Engineering"
+    ],
+    [
+      "Spec-Driven Development",
+      "Spec Kit"
+    ],
+    [
+      "Spec-Driven Development",
+      "tweet-2114486060730237224"
     ],
     [
       "Squad",
@@ -15104,6 +15311,22 @@
     [
       "Straitly",
       "tweet-2097742952013656260"
+    ],
+    [
+      "Subagent Consolidation",
+      "AI Coding Cost Claims"
+    ],
+    [
+      "Subagent Consolidation",
+      "Agentic Engineering"
+    ],
+    [
+      "Subagent Consolidation",
+      "Claude Skills Guide"
+    ],
+    [
+      "Subagent Consolidation",
+      "tweet-2114420226725204453"
     ],
     [
       "Supabase",
@@ -18884,6 +19107,42 @@
     [
       "tweet-2114160336114954401",
       "REA"
+    ],
+    [
+      "tweet-2114392468313563567",
+      "Agentloop"
+    ],
+    [
+      "tweet-2114401602450706524",
+      "Chrome DevTools MCP"
+    ],
+    [
+      "tweet-2114403120377626859",
+      "HumanLayer"
+    ],
+    [
+      "tweet-2114420226725204453",
+      "AI Coding Cost Claims"
+    ],
+    [
+      "tweet-2114420226725204453",
+      "Subagent Consolidation"
+    ],
+    [
+      "tweet-2114486060730237224",
+      "Spec Kit"
+    ],
+    [
+      "tweet-2114486060730237224",
+      "Spec-Driven Development"
+    ],
+    [
+      "tweet-2114710991317750246",
+      "BAND"
+    ],
+    [
+      "tweet-2114724983297528249",
+      "Agentic Engineering"
     ]
   ]
 }

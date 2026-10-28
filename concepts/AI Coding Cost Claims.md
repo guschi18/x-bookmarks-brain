@@ -1,8 +1,8 @@
 ---
 tags: [agents, tools, product-building]
-sources: [tweet-2054255152555545079.md, tweet-2077826623320023303.md, tweet-2097178140413972948.md, tweet-2097369738968195513.md, tweet-2096675504229138541.md, tweet-2097242863964958760.md, tweet-2097742952013656260.md, tweet-2103920741481848861.md, tweet-2103901384135295088.md, tweet-2103552376380457454.md, tweet-2103190313624039620.md, tweet-2102377493705740417.md, tweet-2102436540488315361.md, tweet-2052306848221680015.md, tweet-2102061534956662818.md]
+sources: [tweet-2054255152555545079.md, tweet-2077826623320023303.md, tweet-2097178140413972948.md, tweet-2097369738968195513.md, tweet-2096675504229138541.md, tweet-2097242863964958760.md, tweet-2097742952013656260.md, tweet-2103920741481848861.md, tweet-2103901384135295088.md, tweet-2103552376380457454.md, tweet-2103190313624039620.md, tweet-2102377493705740417.md, tweet-2102436540488315361.md, tweet-2052306848221680015.md, tweet-2102061534956662818.md, tweet-2114420226725204453.md]
 created: 2026-09-29
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 # AI Coding Cost Claims
@@ -50,3 +50,7 @@ Der Codex-Tipp `context_management = true` gegen hohen Astra-Limitverbrauch komm
 ## AgentRun-Compliance-Beispiel (Stand 2026-09; Repo-Nachtrag 2026-10-25)
 
 [AgentRun](../entities/AgentRun.md) zeigt einen Autorenchart von 2,95 auf 0,25 USD pro Alert über rund 1.000 Alerts; der Post rechnet auf 100.000 Alerts hoch. Weder die beiden fehlenden Originaltexte noch die geskripteten Demos der separat geprüften README belegen einen reproduzierbaren Live-Vergleich bei gleicher Entscheidungsqualität. Die 90-Prozent-Angabe bleibt eine begrenzte Autorenbehauptung. [tweet-2102061534956662818](../sources/tweet-2102061534956662818.md)
+
+## Sechs AGENTS.md-Regeln als Sparbehauptung (Stand 2026-10)
+
+Av1dlive schreibt, sechs Zeilen in der AGENTS.md hätten seine Opus-5.5-Nutzung um 50 % gesenkt. Messmethode, Ausgangswert und Aufgabenmix fehlen; es ist eine Einzelbehauptung. Der Inhalt der Regeln ist unter [Subagent Consolidation](Subagent%20Consolidation.md) beschrieben. [tweet-2114420226725204453](../sources/tweet-2114420226725204453.md)

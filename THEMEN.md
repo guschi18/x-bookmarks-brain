@@ -8,7 +8,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Tools
 
-296 Wissensseiten · Tag `tools`
+300 Wissensseiten · Tag `tools`
 
 - [1k Papers](entities/1k%20Papers.md)
 - [21st.dev](entities/21st.dev.md)
@@ -24,6 +24,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Agent Workflow Graphs](concepts/Agent%20Workflow%20Graphs.md)
 - [Agentic Inbox](entities/Agentic%20Inbox.md)
 - [Agentic Video Production](concepts/Agentic%20Video%20Production.md)
+- [Agentloop](entities/Agentloop.md)
 - [Agentlytics](entities/Agentlytics.md)
 - [AgentRun](entities/AgentRun.md)
 - [AI Agency Tool Stack](concepts/AI%20Agency%20Tool%20Stack.md)
@@ -48,6 +49,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Awesome Trading Agents](entities/Awesome%20Trading%20Agents.md)
 - [Backpass](entities/Backpass.md)
 - [Baguette](entities/Baguette.md)
+- [BAND](entities/BAND.md)
 - [Bb](entities/Bb.md)
 - [Beacon](entities/Beacon.md)
 - [Bluey](entities/Bluey.md)
@@ -60,6 +62,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [CashClaw](entities/CashClaw.md)
 - [CheckMyGit](entities/CheckMyGit.md)
 - [Chops](entities/Chops.md)
+- [Chrome DevTools MCP](entities/Chrome%20DevTools%20MCP.md)
 - [Cinetic](entities/Cinetic.md)
 - [Claude API Skill](entities/Claude%20API%20Skill.md)
 - [Claude Code](entities/Claude%20Code.md)
@@ -142,6 +145,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Hook-Enforced Model Routing](concepts/Hook-Enforced%20Model%20Routing.md)
 - [HTML Plan](entities/HTML%20Plan.md)
 - [Hugging Face Agents Course](entities/Hugging%20Face%20Agents%20Course.md)
+- [HumanLayer](entities/HumanLayer.md)
 - [HyperFrames](entities/HyperFrames.md)
 - [HyperQwen](entities/HyperQwen.md)
 - [img2threejs](entities/img2threejs.md)
@@ -309,7 +313,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Agenten
 
-247 Wissensseiten · Tag `agents`
+253 Wissensseiten · Tag `agents`
 
 - [12-Factor Agents](concepts/12-Factor%20Agents.md)
 - [Aaron Marketing Skills](entities/Aaron%20Marketing%20Skills.md)
@@ -332,6 +336,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Agentic Knowledge Graph Construction](concepts/Agentic%20Knowledge%20Graph%20Construction.md)
 - [Agentic Proof Search](concepts/Agentic%20Proof%20Search.md)
 - [Agentic Video Production](concepts/Agentic%20Video%20Production.md)
+- [Agentloop](entities/Agentloop.md)
 - [Agentlytics](entities/Agentlytics.md)
 - [AgentRun](entities/AgentRun.md)
 - [AI Adoption](concepts/AI%20Adoption.md)
@@ -357,6 +362,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Awesome Trading Agents](entities/Awesome%20Trading%20Agents.md)
 - [Backpass](entities/Backpass.md)
 - [Baguette](entities/Baguette.md)
+- [BAND](entities/BAND.md)
 - [Bb](entities/Bb.md)
 - [Beacon](entities/Beacon.md)
 - [Bill Dash](entities/Bill%20Dash.md)
@@ -368,6 +374,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Capafy](entities/Capafy.md)
 - [CashClaw](entities/CashClaw.md)
 - [Chops](entities/Chops.md)
+- [Chrome DevTools MCP](entities/Chrome%20DevTools%20MCP.md)
 - [Cinetic](entities/Cinetic.md)
 - [Claude API Skill](entities/Claude%20API%20Skill.md)
 - [Claude Code](entities/Claude%20Code.md)
@@ -434,6 +441,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [HTML as LLM Output](concepts/HTML%20as%20LLM%20Output.md)
 - [HTML Plan](entities/HTML%20Plan.md)
 - [Hugging Face Agents Course](entities/Hugging%20Face%20Agents%20Course.md)
+- [HumanLayer](entities/HumanLayer.md)
 - [HyperFrames](entities/HyperFrames.md)
 - [HyperQwen](entities/HyperQwen.md)
 - [img2threejs](entities/img2threejs.md)
@@ -534,8 +542,10 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [SnagTime](entities/SnagTime.md)
 - [Software 3.0](concepts/Software%203.0.md)
 - [Spec Kit](entities/Spec%20Kit.md)
+- [Spec-Driven Development](concepts/Spec-Driven%20Development.md)
 - [Squad](entities/Squad.md)
 - [Squeaky Clean](entities/Squeaky%20Clean.md)
+- [Subagent Consolidation](concepts/Subagent%20Consolidation.md)
 - [SwarmForge](entities/SwarmForge.md)
 - [System One Computer Use](entities/System%20One%20Computer%20Use.md)
 - [T3 Code](entities/T3%20Code.md)
@@ -561,7 +571,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Produktentwicklung
 
-133 Wissensseiten · Tag `product-building`
+134 Wissensseiten · Tag `product-building`
 
 - [12-Factor Agents](concepts/12-Factor%20Agents.md)
 - [21st.dev](entities/21st.dev.md)
@@ -683,6 +693,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Spec Kit](entities/Spec%20Kit.md)
 - [Startup Validator](entities/Startup%20Validator.md)
 - [Straitly](entities/Straitly.md)
+- [Subagent Consolidation](concepts/Subagent%20Consolidation.md)
 - [Supabase](entities/Supabase.md)
 - [SwarmForge](entities/SwarmForge.md)
 - [Taste Skill](entities/Taste%20Skill.md)
@@ -699,7 +710,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Forschung
 
-67 Wissensseiten · Tag `research`
+68 Wissensseiten · Tag `research`
 
 - [1k Papers](entities/1k%20Papers.md)
 - [Academic Research Skills](entities/Academic%20Research%20Skills.md)
@@ -761,6 +772,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [RuView](entities/RuView.md)
 - [SANA-WM](entities/SANA-WM.md)
 - [Software 3.0](concepts/Software%203.0.md)
+- [Spec-Driven Development](concepts/Spec-Driven%20Development.md)
 - [The Book of Secret Knowledge](entities/The%20Book%20of%20Secret%20Knowledge.md)
 - [TimesFM](entities/TimesFM.md)
 - [TinyFish](entities/TinyFish.md)

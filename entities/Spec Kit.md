@@ -1,8 +1,8 @@
 ---
 tags: [agents, tools, product-building]
-sources: [tweet-2052753384503922855.md]
+sources: [tweet-2052753384503922855.md, tweet-2114486060730237224.md]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-27
 ---
 
 # Spec Kit
@@ -26,3 +26,5 @@ Die optionale Erweiterung `specify extension add assess` führt Ideen durch inta
 ## Anpassung und Grenzen
 
 Die README unterscheidet Extensions für zusätzliche Fähigkeiten, Presets für angepasstes Verhalten, Workflows für automatisierte Schritte, Bundles für Rollenpakete und lokale Template-Overrides. Sie nennt MIT als Lizenz. Die Quelle dokumentiert Prozesse; ihre Umsetzung wurde hier weder installiert noch auf Ergebnisqualität getestet. [tweet-2052753384503922855](../sources/tweet-2052753384503922855.md)
+
+Einordnung: Das CMU/Google-Paper nennt Spec Kit unter den SDD-Werkzeugen, deren Repository-Zahl 2025 bis 2026 wächst; Befunde dazu stehen unter [Spec-Driven Development](../concepts/Spec-Driven%20Development.md). [tweet-2114486060730237224](../sources/tweet-2114486060730237224.md)

@@ -1,8 +1,8 @@
 ---
 tags: [agents, product-building]
-sources: [tweet-2071509401224261823.md, tweet-2067842298667225185.md, tweet-2067721938894500036.md, tweet-2064663221718425660.md, tweet-2063698758517366884.md, tweet-2074060484047712521.md, tweet-2073741417143300099.md, tweet-2062139630955184170.md, tweet-2061545633560010826.md, tweet-2057924890330644925.md, tweet-2056418157305454805.md, tweet-2074049148765016255.md, tweet-2078148918173368411.md, tweet-2077826623320023303.md, tweet-2055307509267587534.md, tweet-2080257779395154409.md, tweet-2079569829120377139.md, tweet-2094425039554629829.md, tweet-2094138777178403057.md, tweet-2093335809097109630.md, tweet-2092988408050360798.md, tweet-2107939129736700335.md, tweet-2088742864310481025.md, tweet-2049506712801935611.md, tweet-2046223609870582020.md, tweet-2043620640792379812.md, tweet-2040705762406895940.md, tweet-2041505133025194343.md, tweet-2041299378967621889.md, tweet-2112219173288120531.md, tweet-2112047997987213449.md]
+sources: [tweet-2071509401224261823.md, tweet-2067842298667225185.md, tweet-2067721938894500036.md, tweet-2064663221718425660.md, tweet-2063698758517366884.md, tweet-2074060484047712521.md, tweet-2073741417143300099.md, tweet-2062139630955184170.md, tweet-2061545633560010826.md, tweet-2057924890330644925.md, tweet-2056418157305454805.md, tweet-2074049148765016255.md, tweet-2078148918173368411.md, tweet-2077826623320023303.md, tweet-2055307509267587534.md, tweet-2080257779395154409.md, tweet-2079569829120377139.md, tweet-2094425039554629829.md, tweet-2094138777178403057.md, tweet-2093335809097109630.md, tweet-2092988408050360798.md, tweet-2107939129736700335.md, tweet-2088742864310481025.md, tweet-2049506712801935611.md, tweet-2046223609870582020.md, tweet-2043620640792379812.md, tweet-2040705762406895940.md, tweet-2041505133025194343.md, tweet-2041299378967621889.md, tweet-2112219173288120531.md, tweet-2112047997987213449.md, tweet-2114724983297528249.md]
 created: 2026-09-29
-updated: 2026-10-23
+updated: 2026-10-27
 ---
 
 # Agentic Engineering
@@ -193,3 +193,7 @@ Der vom Nutzer nachgereichte Ablauf zum zitierten Boris-Post trennt vier Stufen:
 - Neuartiges Problem: menschliches Review einschalten, danach zur Codeerzeugung zurückkehren. [tweet-2112047997987213449](../sources/tweet-2112047997987213449.md)
 
 Die Grafik macht Selbstprüfung, unabhängiges Zweitreview und automatische Checks zu getrennten Kontrollstufen; sie nennt keine konkreten Prüfkommandos, Rundengrenze oder Kriterien für „neuartig“. Ihre Wirksamkeit ist hier nicht getestet. Der Nutzer behält den Loop ausdrücklich als nützliche Arbeitsanleitung. [tweet-2112047997987213449](../sources/tweet-2112047997987213449.md)
+
+## ub-mode: Testregeln für Coding-Agenten (Stand 2026-10)
+
+Voxyz_ai beschreibt den Skill ub-mode (Repo unclebob/ub-mode) als Regelsatz von Robert C. Martin für Agenten: Ein Guard, der nur den Absturz versteckt, gilt nicht als Fix; ein Test, der auch bestünde, wenn jede Funktion nichts zurückgäbe, wird verworfen; geliefert wird die kleinste lösende Änderung; der fehlschlagende Test entsteht vor der Codeänderung. Optionale Schritte heißen crapper, dryer und mutator. Die Zuschreibung und die Wirkung (Agent "kann Bugs nicht verstecken") stammen aus dem Tweet; das Repo wurde hier nicht geprüft. Verwandt: [Squeaky Clean](../entities/Squeaky%20Clean.md). [tweet-2114724983297528249](../sources/tweet-2114724983297528249.md)
