@@ -1,8 +1,8 @@
 ---
 tags: [agents, research]
-sources: [tweet-2112141663833317775.md]
+sources: [tweet-2112141663833317775.md, tweet-2114769723879464983.md]
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 
 # Harness2
@@ -20,3 +20,7 @@ Acht editierbare Komponenten: System-Prompt, Guardrails, Memory, Tool-Anleitung,
 Benötigt Linux, Python 3.12 und uv; `harness2-demo --output runs/demo --k 2` läuft lokal ohne Modell-Zugangsdaten. Modellgestützte Benchmarks brauchen Node.js 20+, Google Cloud CLI (Vertex AI) und je nach Benchmark Pandoc, Poppler oder Docker. [tweet-2112141663833317775](../sources/tweet-2112141663833317775.md)
 
 Die README berichtet für einen Harness2-Schritt Gewinne gegenüber den Basis-Harnesses von GLM-5 und Gemini 3.5 Flash (bis 11,5 Punkte auf WorkBuddy-Bench, 4,5 auf JobBench, 11,8 Prozentpunkte bei LAB partial pass). Das sind Angaben der Autoren; sie wurden hier nicht reproduziert und nichts wurde installiert. Verwandter Ansatz: [AutoHarness](AutoHarness.md). [tweet-2112141663833317775](../sources/tweet-2112141663833317775.md)
+
+## Unterstützung in Hermit (Stand 2026-10)
+
+Das Framework [Hermit](Hermit.md) listet Harness² unter den unterstützten Methoden der Harness-Evolution, neben GEPA, SkillOpt, MetaWorld Model und Continual Harness. [tweet-2114769723879464983](../sources/tweet-2114769723879464983.md)

@@ -8,7 +8,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Tools
 
-300 Wissensseiten · Tag `tools`
+304 Wissensseiten · Tag `tools`
 
 - [1k Papers](entities/1k%20Papers.md)
 - [21st.dev](entities/21st.dev.md)
@@ -100,6 +100,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [David Ondrej Skills](entities/David%20Ondrej%20Skills.md)
 - [DaVinci Resolve](entities/DaVinci%20Resolve.md)
 - [Deepsec](entities/Deepsec.md)
+- [DeepTutor](entities/DeepTutor.md)
 - [DeerFlow](entities/DeerFlow.md)
 - [Dembrandt](entities/Dembrandt.md)
 - [Design Engineer Tools](entities/Design%20Engineer%20Tools.md)
@@ -211,6 +212,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Oil Motion](entities/Oil%20Motion.md)
 - [Omarchy iPhone Controller](entities/Omarchy%20iPhone%20Controller.md)
 - [Onyx](entities/Onyx.md)
+- [Open Code Review](entities/Open%20Code%20Review.md)
 - [Open Generative UI](entities/Open%20Generative%20UI.md)
 - [OpenBot](entities/OpenBot.md)
 - [OpenChronicle](entities/OpenChronicle.md)
@@ -218,6 +220,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [OpenDesign](entities/OpenDesign.md)
 - [OpenDisplay](entities/OpenDisplay.md)
 - [OpenDots](entities/OpenDots.md)
+- [OpenDuet](entities/OpenDuet.md)
 - [Opengrok](entities/Opengrok.md)
 - [OpenGym](entities/OpenGym.md)
 - [OpenJev NLI](entities/OpenJev%20NLI.md)
@@ -307,13 +310,14 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [WaterCrawl](entities/WaterCrawl.md)
 - [Waveshare](entities/Waveshare.md)
 - [WC3UI](entities/WC3UI.md)
+- [WebMCP](entities/WebMCP.md)
 - [Website Downloader](entities/Website%20Downloader.md)
 - [Worktree Cleaner](entities/Worktree%20Cleaner.md)
 - [X API MCP](entities/X%20API%20MCP.md)
 
 ## Agenten
 
-253 Wissensseiten · Tag `agents`
+258 Wissensseiten · Tag `agents`
 
 - [12-Factor Agents](concepts/12-Factor%20Agents.md)
 - [Aaron Marketing Skills](entities/Aaron%20Marketing%20Skills.md)
@@ -321,6 +325,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Adaptive Reasoning Effort](concepts/Adaptive%20Reasoning%20Effort.md)
 - [Addy Osmani Agent Skills](entities/Addy%20Osmani%20Agent%20Skills.md)
 - [Agency](entities/Agency.md)
+- [Agent Harness Verification](concepts/Agent%20Harness%20Verification.md)
 - [Agent History Reflection](concepts/Agent%20History%20Reflection.md)
 - [Agent Learning Resources](concepts/Agent%20Learning%20Resources.md)
 - [Agent Orchestrator](entities/Agent%20Orchestrator.md)
@@ -437,6 +442,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Harness Bridge](entities/Harness%20Bridge.md)
 - [Harness2](entities/Harness2.md)
 - [Harp](entities/Harp.md)
+- [Hermit](entities/Hermit.md)
 - [Hook-Enforced Model Routing](concepts/Hook-Enforced%20Model%20Routing.md)
 - [HTML as LLM Output](concepts/HTML%20as%20LLM%20Output.md)
 - [HTML Plan](entities/HTML%20Plan.md)
@@ -494,11 +500,13 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Obsidian Second Brain](entities/Obsidian%20Second%20Brain.md)
 - [Oil Motion](entities/Oil%20Motion.md)
 - [Onyx](entities/Onyx.md)
+- [Open Code Review](entities/Open%20Code%20Review.md)
 - [Open Generative UI](entities/Open%20Generative%20UI.md)
 - [OpenBot](entities/OpenBot.md)
 - [OpenChronicle](entities/OpenChronicle.md)
 - [OpenDesign](entities/OpenDesign.md)
 - [OpenDots](entities/OpenDots.md)
+- [OpenDuet](entities/OpenDuet.md)
 - [Opengrok](entities/Opengrok.md)
 - [OpenNews MCP](entities/OpenNews%20MCP.md)
 - [OpenShell](entities/OpenShell.md)
@@ -566,12 +574,13 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Virlo](entities/Virlo.md)
 - [Warp](entities/Warp.md)
 - [WaterCrawl](entities/WaterCrawl.md)
+- [WebMCP](entities/WebMCP.md)
 - [Worktree Cleaner](entities/Worktree%20Cleaner.md)
 - [X API MCP](entities/X%20API%20MCP.md)
 
 ## Produktentwicklung
 
-134 Wissensseiten · Tag `product-building`
+135 Wissensseiten · Tag `product-building`
 
 - [12-Factor Agents](concepts/12-Factor%20Agents.md)
 - [21st.dev](entities/21st.dev.md)
@@ -666,6 +675,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [OpenBot](entities/OpenBot.md)
 - [OpenCut](entities/OpenCut.md)
 - [OpenDesign](entities/OpenDesign.md)
+- [OpenDuet](entities/OpenDuet.md)
 - [OpenGym](entities/OpenGym.md)
 - [OpenUI](entities/OpenUI.md)
 - [OriginKit](entities/OriginKit.md)
@@ -710,10 +720,11 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Forschung
 
-68 Wissensseiten · Tag `research`
+70 Wissensseiten · Tag `research`
 
 - [1k Papers](entities/1k%20Papers.md)
 - [Academic Research Skills](entities/Academic%20Research%20Skills.md)
+- [Agent Harness Verification](concepts/Agent%20Harness%20Verification.md)
 - [Agent History Reflection](concepts/Agent%20History%20Reflection.md)
 - [Agent Learning Resources](concepts/Agent%20Learning%20Resources.md)
 - [Agent Skill Mining](concepts/Agent%20Skill%20Mining.md)
@@ -747,6 +758,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Happy Hormones Checklist](concepts/Happy%20Hormones%20Checklist.md)
 - [Harness2](entities/Harness2.md)
 - [Health Claims from Social Posts](concepts/Health%20Claims%20from%20Social%20Posts.md)
+- [Hermit](entities/Hermit.md)
 - [Hugging Face Agents Course](entities/Hugging%20Face%20Agents%20Course.md)
 - [JoyAI-Video-Edit](entities/JoyAI-Video-Edit.md)
 - [Kimi Agent Swarm](entities/Kimi%20Agent%20Swarm.md)
@@ -783,7 +795,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## LLM-Training
 
-36 Wissensseiten · Tag `llm-training`
+38 Wissensseiten · Tag `llm-training`
 
 - [Agent Learning Resources](concepts/Agent%20Learning%20Resources.md)
 - [AI and Data Science Reading List](synthesis/AI%20and%20Data%20Science%20Reading%20List.md)
@@ -793,11 +805,13 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Chip War](entities/Chip%20War.md)
 - [Claude API Skill](entities/Claude%20API%20Skill.md)
 - [CMP Unlocker](entities/CMP%20Unlocker.md)
+- [DeepTutor](entities/DeepTutor.md)
 - [Exocortex](concepts/Exocortex.md)
 - [Flipbook](entities/Flipbook.md)
 - [FreeToken](entities/FreeToken.md)
 - [Gemini Embedding 2](entities/Gemini%20Embedding%202.md)
 - [Google Colab VS Code](entities/Google%20Colab%20VS%20Code.md)
+- [Hermit](entities/Hermit.md)
 - [HyperQwen](entities/HyperQwen.md)
 - [Interaction Models](concepts/Interaction%20Models.md)
 - [LeWorldModel](entities/LeWorldModel.md)
@@ -857,7 +871,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Sicherheit
 
-23 Wissensseiten · Tag `security`
+24 Wissensseiten · Tag `security`
 
 - [AI Sovereignty](concepts/AI%20Sovereignty.md)
 - [Awesome CAN Bus](entities/Awesome%20CAN%20Bus.md)
@@ -875,6 +889,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Magika](entities/Magika.md)
 - [Numbat](entities/Numbat.md)
 - [Obscura](entities/Obscura.md)
+- [Open Code Review](entities/Open%20Code%20Review.md)
 - [OpenBot](entities/OpenBot.md)
 - [OpenShell](entities/OpenShell.md)
 - [OpenVPN Install](entities/OpenVPN%20Install.md)

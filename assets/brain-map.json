@@ -1,28 +1,28 @@
 {
-  "pages": 880,
-  "sources": 514,
-  "edges": 2490,
-  "updated": "2026-10-27",
+  "pages": 892,
+  "sources": 520,
+  "edges": 2519,
+  "updated": "2026-10-28",
   "topics": [
     {
       "tag": "tools",
-      "count": 696
+      "count": 704
     },
     {
       "tag": "agents",
-      "count": 646
+      "count": 656
     },
     {
       "tag": "product-building",
-      "count": 312
+      "count": 314
     },
     {
       "tag": "research",
-      "count": 157
+      "count": 161
     },
     {
       "tag": "llm-training",
-      "count": 75
+      "count": 79
     },
     {
       "tag": "marketing",
@@ -30,7 +30,7 @@
     },
     {
       "tag": "security",
-      "count": 48
+      "count": 50
     },
     {
       "tag": "trading",
@@ -44,23 +44,23 @@
   "knowledge_topics": [
     {
       "tag": "tools",
-      "count": 300
+      "count": 304
     },
     {
       "tag": "agents",
-      "count": 253
+      "count": 258
     },
     {
       "tag": "product-building",
-      "count": 134
+      "count": 135
     },
     {
       "tag": "research",
-      "count": 68
+      "count": 70
     },
     {
       "tag": "llm-training",
-      "count": 36
+      "count": 38
     },
     {
       "tag": "marketing",
@@ -68,7 +68,7 @@
     },
     {
       "tag": "security",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "trading",
@@ -597,7 +597,7 @@
         "tools",
         "agents"
       ],
-      "degree": 3,
+      "degree": 4,
       "path": "entities/Chrome DevTools MCP.md"
     },
     {
@@ -952,6 +952,16 @@
       ],
       "degree": 3,
       "path": "entities/Deepsec.md"
+    },
+    {
+      "name": "DeepTutor",
+      "group": "entities",
+      "tags": [
+        "llm-training",
+        "tools"
+      ],
+      "degree": 4,
+      "path": "entities/DeepTutor.md"
     },
     {
       "name": "DeerFlow",
@@ -1382,7 +1392,7 @@
         "agents",
         "research"
       ],
-      "degree": 3,
+      "degree": 7,
       "path": "entities/Harness2.md"
     },
     {
@@ -1394,6 +1404,17 @@
       ],
       "degree": 7,
       "path": "entities/Harp.md"
+    },
+    {
+      "name": "Hermit",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "research",
+        "llm-training"
+      ],
+      "degree": 4,
+      "path": "entities/Hermit.md"
     },
     {
       "name": "HTML Plan",
@@ -2034,6 +2055,17 @@
       "path": "entities/Onyx.md"
     },
     {
+      "name": "Open Code Review",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools",
+        "security"
+      ],
+      "degree": 4,
+      "path": "entities/Open Code Review.md"
+    },
+    {
       "name": "Open Generative UI",
       "group": "entities",
       "tags": [
@@ -2053,7 +2085,7 @@
         "security",
         "product-building"
       ],
-      "degree": 4,
+      "degree": 8,
       "path": "entities/OpenBot.md"
     },
     {
@@ -2103,8 +2135,19 @@
         "agents",
         "tools"
       ],
-      "degree": 6,
+      "degree": 7,
       "path": "entities/OpenDots.md"
+    },
+    {
+      "name": "OpenDuet",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools",
+        "product-building"
+      ],
+      "degree": 5,
+      "path": "entities/OpenDuet.md"
     },
     {
       "name": "Opengrok",
@@ -2904,7 +2947,7 @@
         "agents",
         "tools"
       ],
-      "degree": 6,
+      "degree": 7,
       "path": "entities/Verifier Setup.md"
     },
     {
@@ -2989,6 +3032,16 @@
       "path": "entities/WC3UI.md"
     },
     {
+      "name": "WebMCP",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 3,
+      "path": "entities/WebMCP.md"
+    },
+    {
       "name": "Website Downloader",
       "group": "entities",
       "tags": [
@@ -3037,6 +3090,16 @@
       ],
       "degree": 11,
       "path": "concepts/Adaptive Reasoning Effort.md"
+    },
+    {
+      "name": "Agent Harness Verification",
+      "group": "concepts",
+      "tags": [
+        "agents",
+        "research"
+      ],
+      "degree": 5,
+      "path": "concepts/Agent Harness Verification.md"
     },
     {
       "name": "Agent History Reflection",
@@ -3210,7 +3273,7 @@
         "llm-training",
         "product-building"
       ],
-      "degree": 5,
+      "degree": 9,
       "path": "concepts/AI Tutoring.md"
     },
     {
@@ -9163,6 +9226,16 @@
       "path": "sources/tweet-2114486060730237224.md"
     },
     {
+      "name": "tweet-2114702883673501719",
+      "group": "sources",
+      "tags": [
+        "llm-training",
+        "tools"
+      ],
+      "degree": 4,
+      "path": "sources/tweet-2114702883673501719.md"
+    },
+    {
       "name": "tweet-2114710991317750246",
       "group": "sources",
       "tags": [
@@ -9181,6 +9254,59 @@
       ],
       "degree": 2,
       "path": "sources/tweet-2114724983297528249.md"
+    },
+    {
+      "name": "tweet-2114769723879464983",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "research",
+        "llm-training"
+      ],
+      "degree": 4,
+      "path": "sources/tweet-2114769723879464983.md"
+    },
+    {
+      "name": "tweet-2114776553481445523",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2114776553481445523.md"
+    },
+    {
+      "name": "tweet-2115010135588589932",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools",
+        "security"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2115010135588589932.md"
+    },
+    {
+      "name": "tweet-2115076613461418010",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "research"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2115076613461418010.md"
+    },
+    {
+      "name": "tweet-2115097056394240293",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools",
+        "product-building"
+      ],
+      "degree": 4,
+      "path": "sources/tweet-2115097056394240293.md"
     }
   ],
   "links": [
@@ -9490,11 +9616,19 @@
     ],
     [
       "AI Tutoring",
+      "DeepTutor"
+    ],
+    [
+      "AI Tutoring",
       "Exocortex"
     ],
     [
       "AI Tutoring",
       "tweet-2078148918173368411"
+    ],
+    [
+      "AI Tutoring",
+      "tweet-2114702883673501719"
     ],
     [
       "AI Website Cloner Template",
@@ -9583,6 +9717,18 @@
     [
       "Agency",
       "tweet-2098804076335218805"
+    ],
+    [
+      "Agent Harness Verification",
+      "Open Code Review"
+    ],
+    [
+      "Agent Harness Verification",
+      "Verifier Setup"
+    ],
+    [
+      "Agent Harness Verification",
+      "tweet-2115076613461418010"
     ],
     [
       "Agent History Reflection",
@@ -12065,6 +12211,14 @@
       "tweet-2074049148765016255"
     ],
     [
+      "DeepTutor",
+      "AI Tutoring"
+    ],
+    [
+      "DeepTutor",
+      "tweet-2114702883673501719"
+    ],
+    [
       "Deepsec",
       "tweet-2071216155058982984"
     ],
@@ -12930,7 +13084,15 @@
     ],
     [
       "Harness2",
+      "Hermit"
+    ],
+    [
+      "Harness2",
       "tweet-2112141663833317775"
+    ],
+    [
+      "Harness2",
+      "tweet-2114769723879464983"
     ],
     [
       "Harp",
@@ -12959,6 +13121,14 @@
     [
       "Health Claims from Social Posts",
       "tweet-1934617963841081487"
+    ],
+    [
+      "Hermit",
+      "Harness2"
+    ],
+    [
+      "Hermit",
+      "tweet-2114769723879464983"
     ],
     [
       "Hook-Enforced Model Routing",
@@ -14393,6 +14563,14 @@
       "tweet-2039598698548850949"
     ],
     [
+      "Open Code Review",
+      "Agent Harness Verification"
+    ],
+    [
+      "Open Code Review",
+      "tweet-2115010135588589932"
+    ],
+    [
       "Open Generative UI",
       "OpenUI"
     ],
@@ -14406,7 +14584,15 @@
     ],
     [
       "OpenBot",
+      "OpenDuet"
+    ],
+    [
+      "OpenBot",
       "tweet-2098354614856744978"
+    ],
+    [
+      "OpenBot",
+      "tweet-2115097056394240293"
     ],
     [
       "OpenChronicle",
@@ -14463,6 +14649,18 @@
     [
       "OpenDots",
       "tweet-2105710796198322659"
+    ],
+    [
+      "OpenDuet",
+      "OpenBot"
+    ],
+    [
+      "OpenDuet",
+      "OpenDots"
+    ],
+    [
+      "OpenDuet",
+      "tweet-2115097056394240293"
     ],
     [
       "OpenGym",
@@ -15763,6 +15961,14 @@
     [
       "Waveshare",
       "tweet-2092902395294502959"
+    ],
+    [
+      "WebMCP",
+      "Chrome DevTools MCP"
+    ],
+    [
+      "WebMCP",
+      "tweet-2114776553481445523"
     ],
     [
       "Website Downloader",
@@ -19137,12 +19343,48 @@
       "Spec-Driven Development"
     ],
     [
+      "tweet-2114702883673501719",
+      "AI Tutoring"
+    ],
+    [
+      "tweet-2114702883673501719",
+      "DeepTutor"
+    ],
+    [
       "tweet-2114710991317750246",
       "BAND"
     ],
     [
       "tweet-2114724983297528249",
       "Agentic Engineering"
+    ],
+    [
+      "tweet-2114769723879464983",
+      "Harness2"
+    ],
+    [
+      "tweet-2114769723879464983",
+      "Hermit"
+    ],
+    [
+      "tweet-2114776553481445523",
+      "WebMCP"
+    ],
+    [
+      "tweet-2115010135588589932",
+      "Open Code Review"
+    ],
+    [
+      "tweet-2115076613461418010",
+      "Agent Harness Verification"
+    ],
+    [
+      "tweet-2115097056394240293",
+      "OpenBot"
+    ],
+    [
+      "tweet-2115097056394240293",
+      "OpenDuet"
     ]
   ]
 }

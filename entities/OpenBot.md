@@ -1,8 +1,8 @@
 ---
 tags: [agents, tools, security, product-building]
-sources: [tweet-2098354614856744978.md]
+sources: [tweet-2098354614856744978.md, tweet-2115097056394240293.md]
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-28
 ---
 
 # OpenBot
@@ -28,3 +28,7 @@ Die Vorlage aktiviert `OPENBOT_SINGLE_USER=true`: jede Anfrage gilt als ein Admi
 Die gespeicherte README bezeichnet OpenBot als Vorlage unter aktiver Entwicklung, keine fertig betriebene Hosted-Lösung. Die im Tweet genannten 4.500 Sterne belegen Popularität am Postdatum, keine Betriebsreife. Konfiguration, Isolation und Policy-Durchsetzung wurden hier nicht getestet. [tweet-2098354614856744978](../sources/tweet-2098354614856744978.md)
 
 [OpenDots](OpenDots.md) verwendet verwandte OpenBot-Infrastruktur; dessen eigene Workspace-Vorlage bleibt getrennt. Diese Quelle dokumentiert OpenBots vollständigen Betrieb statt nur des Computerbausteins. [tweet-2098354614856744978](../sources/tweet-2098354614856744978.md)
+
+## Verwandtes Produkt OpenDuet (Stand 2026-10)
+
+Die README von [OpenDuet](OpenDuet.md) nennt, dass OpenDuet heute als OpenBot läuft, mit eigenem Namen, Bots und Skills darüber. [tweet-2115097056394240293](../sources/tweet-2115097056394240293.md) Damit ist OpenDuet eine proaktive Ausprägung derselben Plattform, nicht ein getrenntes System; das ist eine Herstellerangabe der README. [tweet-2115097056394240293](../sources/tweet-2115097056394240293.md)

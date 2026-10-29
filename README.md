@@ -50,12 +50,12 @@ Eine Seite kann mehrere Themen haben. Die Grafik zählt die Seiten über Tools, 
 
 | Hier kannst du nachschlagen | Inhalt | Seiten |
 | --- | --- | ---: |
-| [Tools und Personen](index.md#entitäten) | Auch Produkte und Organisationen | 282 |
-| [Konzepte und Methoden](index.md#konzepte) | Erklärungen und Arbeitsweisen | 78 |
+| [Tools und Personen](index.md#entitäten) | Auch Produkte und Organisationen | 287 |
+| [Konzepte und Methoden](index.md#konzepte) | Erklärungen und Arbeitsweisen | 79 |
 | [Leselisten und Zusammenstellungen](index.md#synthesen) | Beiträge zu einem gemeinsamen Thema | 6 |
-| [Quellen](index.md#quellen) | Zusammenfassungen mit Originallinks | 514 |
+| [Quellen](index.md#quellen) | Zusammenfassungen mit Originallinks | 520 |
 
-Insgesamt 880 Inhaltsseiten. Die zuletzt gepflegte Seite hat den Stand 2026-10-27.
+Insgesamt 892 Inhaltsseiten. Die zuletzt gepflegte Seite hat den Stand 2026-10-28.
 
 ## Kurz zur Nutzung
 
