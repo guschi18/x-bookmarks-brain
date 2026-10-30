@@ -1,8 +1,8 @@
 ---
 tags: [llm-training, product-building, research]
-sources: [tweet-2046554097159921961.md, tweet-2046481867365638345.md]
+sources: [tweet-2046554097159921961.md]
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 # AI and Data Science Reading List
@@ -39,7 +39,3 @@ Das Bild gruppiert Bücher unter Foundation, ML Systems, LLM + AI Agent und Adva
 ## Nutzung und Grenze (Stand 2026-04)
 
 Die Liste dient als konkreter Lesestoff neben dem Grundlagenmodell in [LLM Training Pipeline](../concepts/LLM%20Training%20Pipeline.md). Der Post enthält keine gespeicherten Buchvolltexte, Inhaltsverzeichnisse, Bezugslinks oder überprüfbaren Karriereergebnisse; die im Bild sichtbaren Auflagen sind historische Bildangaben, keine Aussage über heutige Neuauflagen. [tweet-2046554097159921961](../sources/tweet-2046554097159921961.md)
-
-## Ergänzende Ressourcensuche (Stand 2026-04)
-
-[Free Ebook Resources](Free%20Ebook%20Resources.md) bewahrt eine separate Liste von neun E-Book-Websites. Sie ist kein Nachweis, dass die oben empfohlenen Bücher dort verfügbar oder frei lizenziert sind; die pauschale Legalitätsbehauptung des Ressourcenposts wird nicht übernommen. [tweet-2046481867365638345](../sources/tweet-2046481867365638345.md)

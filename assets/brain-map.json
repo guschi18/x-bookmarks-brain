@@ -1,16 +1,16 @@
 {
-  "pages": 892,
+  "pages": 891,
   "sources": 520,
-  "edges": 2519,
-  "updated": "2026-10-28",
+  "edges": 2517,
+  "updated": "2026-10-29",
   "topics": [
     {
       "tag": "tools",
-      "count": 704
+      "count": 703
     },
     {
       "tag": "agents",
-      "count": 656
+      "count": 657
     },
     {
       "tag": "product-building",
@@ -18,7 +18,7 @@
     },
     {
       "tag": "research",
-      "count": 161
+      "count": 159
     },
     {
       "tag": "llm-training",
@@ -44,7 +44,7 @@
   "knowledge_topics": [
     {
       "tag": "tools",
-      "count": 304
+      "count": 303
     },
     {
       "tag": "agents",
@@ -56,7 +56,7 @@
     },
     {
       "tag": "research",
-      "count": 70
+      "count": 69
     },
     {
       "tag": "llm-training",
@@ -672,7 +672,7 @@
         "agents",
         "tools"
       ],
-      "degree": 302,
+      "degree": 304,
       "path": "entities/Claude Code.md"
     },
     {
@@ -754,7 +754,7 @@
         "agents",
         "tools"
       ],
-      "degree": 37,
+      "degree": 39,
       "path": "entities/Claude Plugins.md"
     },
     {
@@ -3885,7 +3885,7 @@
         "product-building",
         "research"
       ],
-      "degree": 8,
+      "degree": 4,
       "path": "synthesis/AI and Data Science Reading List.md"
     },
     {
@@ -3909,16 +3909,6 @@
       ],
       "degree": 5,
       "path": "synthesis/AI Learning Accounts.md"
-    },
-    {
-      "name": "Free Ebook Resources",
-      "group": "synthesis",
-      "tags": [
-        "research",
-        "tools"
-      ],
-      "degree": 4,
-      "path": "synthesis/Free Ebook Resources.md"
     },
     {
       "name": "Jev Project Directory",
@@ -4560,16 +4550,6 @@
       ],
       "degree": 2,
       "path": "sources/tweet-2046423184870973707.md"
-    },
-    {
-      "name": "tweet-2046481867365638345",
-      "group": "sources",
-      "tags": [
-        "research",
-        "tools"
-      ],
-      "degree": 4,
-      "path": "sources/tweet-2046481867365638345.md"
     },
     {
       "name": "tweet-2046554097159921961",
@@ -9277,6 +9257,16 @@
       "path": "sources/tweet-2114776553481445523.md"
     },
     {
+      "name": "tweet-2114910356170522999",
+      "group": "sources",
+      "tags": [
+        "tools",
+        "agents"
+      ],
+      "degree": 4,
+      "path": "sources/tweet-2114910356170522999.md"
+    },
+    {
       "name": "tweet-2115010135588589932",
       "group": "sources",
       "tags": [
@@ -9644,15 +9634,7 @@
     ],
     [
       "AI and Data Science Reading List",
-      "Free Ebook Resources"
-    ],
-    [
-      "AI and Data Science Reading List",
       "LLM Training Pipeline"
-    ],
-    [
-      "AI and Data Science Reading List",
-      "tweet-2046481867365638345"
     ],
     [
       "AI and Data Science Reading List",
@@ -11331,6 +11313,10 @@
       "tweet-2113726955937730604"
     ],
     [
+      "Claude Code",
+      "tweet-2114910356170522999"
+    ],
+    [
       "Claude Code Best Practice",
       "Agentic Engineering"
     ],
@@ -11649,6 +11635,10 @@
     [
       "Claude Plugins",
       "tweet-2106153410697564235"
+    ],
+    [
+      "Claude Plugins",
+      "tweet-2114910356170522999"
     ],
     [
       "Claude Projects",
@@ -12785,14 +12775,6 @@
     [
       "Flowsint",
       "tweet-2098941338297458746"
-    ],
-    [
-      "Free Ebook Resources",
-      "AI and Data Science Reading List"
-    ],
-    [
-      "Free Ebook Resources",
-      "tweet-2046481867365638345"
     ],
     [
       "FreeToken",
@@ -16351,14 +16333,6 @@
       "LeWorldModel"
     ],
     [
-      "tweet-2046481867365638345",
-      "AI and Data Science Reading List"
-    ],
-    [
-      "tweet-2046481867365638345",
-      "Free Ebook Resources"
-    ],
-    [
       "tweet-2046554097159921961",
       "AI and Data Science Reading List"
     ],
@@ -19369,6 +19343,14 @@
     [
       "tweet-2114776553481445523",
       "WebMCP"
+    ],
+    [
+      "tweet-2114910356170522999",
+      "Claude Code"
+    ],
+    [
+      "tweet-2114910356170522999",
+      "Claude Plugins"
     ],
     [
       "tweet-2115010135588589932",

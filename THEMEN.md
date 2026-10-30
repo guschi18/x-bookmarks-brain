@@ -8,7 +8,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Tools
 
-304 Wissensseiten · Tag `tools`
+303 Wissensseiten · Tag `tools`
 
 - [1k Papers](entities/1k%20Papers.md)
 - [21st.dev](entities/21st.dev.md)
@@ -124,7 +124,6 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Fincept Terminal](entities/Fincept%20Terminal.md)
 - [FinSkills](entities/FinSkills.md)
 - [Flowsint](entities/Flowsint.md)
-- [Free Ebook Resources](synthesis/Free%20Ebook%20Resources.md)
 - [FreeToken](entities/FreeToken.md)
 - [Gemini Embedding 2](entities/Gemini%20Embedding%202.md)
 - [GEO SEO](entities/GEO%20SEO.md)
@@ -720,7 +719,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Forschung
 
-70 Wissensseiten · Tag `research`
+69 Wissensseiten · Tag `research`
 
 - [1k Papers](entities/1k%20Papers.md)
 - [Academic Research Skills](entities/Academic%20Research%20Skills.md)
@@ -750,7 +749,6 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Financial Research Directory](concepts/Financial%20Research%20Directory.md)
 - [Fincept Terminal](entities/Fincept%20Terminal.md)
 - [Flipbook](entities/Flipbook.md)
-- [Free Ebook Resources](synthesis/Free%20Ebook%20Resources.md)
 - [Gemini Embedding 2](entities/Gemini%20Embedding%202.md)
 - [Generative Search Optimization](concepts/Generative%20Search%20Optimization.md)
 - [Google Maps Scrapper](entities/Google%20Maps%20Scrapper.md)
