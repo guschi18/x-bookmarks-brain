@@ -23,7 +23,6 @@
 
 ## Womit du anfangen kannst
 
-
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -55,7 +54,7 @@ Designvorgaben und Skills für Gestaltungsaufgaben mit KI.
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="33%" valign="top">
 
 ### 📣 Marketing
 Eine Taktikensammlung und die Aufgaben, die Marketing-Skills abdecken.
@@ -64,7 +63,7 @@ Eine Taktikensammlung und die Aufgaben, die Marketing-Skills abdecken.
 [Aaron Marketing Skills](entities/Aaron%20Marketing%20Skills.md)
 
 </td>
-<td valign="top">
+<td width="33%" valign="top">
 
 ### 📚 Lesestoff
 Bücher zu KI und Data Science mit den zugehörigen Quellen.
@@ -72,7 +71,7 @@ Bücher zu KI und Data Science mit den zugehörigen Quellen.
 [AI and Data Science Reading List](synthesis/AI%20and%20Data%20Science%20Reading%20List.md)
 
 </td>
-<td valign="top">
+<td width="33%" valign="top">
 
 ### 🧭 Mehr entdecken
 Trading, Krypto, Sicherheit, Forschung und LLM-Training.
@@ -90,11 +89,11 @@ Die zuletzt angelegten Seiten (Stand 2026-10-28):
 
 | Seite | Worum es geht |
 |---|---|
-| 🧩 [WebMCP](entities/WebMCP.md) | Laut Chrome-Entwicklerkonto ersetzt WebMCP das MCP nicht. |
-| 🔍 [Open Code Review](entities/Open%20Code%20Review.md) | Quelloffenes CLI-Tool für KI-gestützte Code-Reviews. |
-| 🧪 [Agent Harness Verification](concepts/Agent%20Harness%20Verification.md) | Ein Agent-Harness lässt die Arbeit eines Coding-Agenten prüfen und überarbeiten. |
-| 🔁 [Hermit](entities/Hermit.md) | Open-Source-Framework für Continual Learning durch Harness-Adapter-Evolution. |
-| 🛰️ [OpenDuet](entities/OpenDuet.md) | Selbst gehostete Vorlage für einen proaktiven KI-Agenten. |
+| 🧩 [WebMCP](entities/WebMCP.md) | Laut dem Chrome-Entwicklerkonto ersetzt WebMCP das MCP nicht. |
+| 🧩 [OpenDuet](entities/OpenDuet.md) | OpenDuet ist eine Open-Source-Vorlage von CopilotKit für einen proaktiven KI-Agenten, der selbst gehostet wird und mit beliebigen… |
+| 🧩 [Open Code Review](entities/Open%20Code%20Review.md) | Open Code Review ist ein quelloffenes CLI-Tool für KI-gestützte Code-Reviews. |
+| 🧩 [Hermit](entities/Hermit.md) | Hermit ist ein Open-Source-Framework der Infini-AI-Lab für Continual Learning und RSI durch Harness-Adapter-Evolution. |
+| 🧩 [DeepTutor](entities/DeepTutor.md) | DeepTutor ist ein quelloffener KI-Tutor der HKU (HKUDS) und läuft laut Post als Arbeitsbereich für Erklären, Üben, Tiefenrecherche… |
 
 ## Was die Sammlung abdeckt
 
