@@ -19,9 +19,12 @@ Hier findest du meine gespeicherten X-Posts als Wiki: mit Zusammenfassungen, Sei
 
 Die meisten Seiten beschäftigen sich mit KI-Agenten und Tools. Daneben sammle ich Beiträge zu Produktentwicklung, Marketing, Forschung, Trading und weiteren Interessen. Du kannst die Sammlung hier auf GitHub lesen oder als Vault in Obsidian öffnen.
 
+## So prüfst du eine Aussage
+
 <p align="center"><img src="assets/readme/belege.svg" alt="Beleg-Prinzip: Wiki-Seite mit Anker, Quellenseite mit Zusammenfassung, Original-Post auf X" width="100%"></p>
 
 ## Womit du anfangen kannst
+
 
 <table>
 <tr>
@@ -83,11 +86,19 @@ Trading, Krypto, Sicherheit, Forschung und LLM-Training.
 </tr>
 </table>
 
+## Neu im Brain
+
+Die zuletzt angelegten Seiten (Stand 2026-10-28):
+
+| Seite | Worum es geht |
+|---|---|
+| 🧩 [WebMCP](entities/WebMCP.md) | Laut Chrome-Entwicklerkonto ersetzt WebMCP das MCP nicht. |
+| 🔍 [Open Code Review](entities/Open%20Code%20Review.md) | Quelloffenes CLI-Tool für KI-gestützte Code-Reviews. |
+| 🧪 [Agent Harness Verification](concepts/Agent%20Harness%20Verification.md) | Ein Agent-Harness lässt die Arbeit eines Coding-Agenten prüfen und überarbeiten. |
+| 🔁 [Hermit](entities/Hermit.md) | Open-Source-Framework für Continual Learning durch Harness-Adapter-Evolution. |
+| 🛰️ [OpenDuet](entities/OpenDuet.md) | Selbst gehostete Vorlage für einen proaktiven KI-Agenten. |
+
 ## Was die Sammlung abdeckt
-
-<p align="center"><img src="assets/readme/topics.svg" alt="Seiten pro Thema: Tools 303, Agenten 258, Produktentwicklung 135, Forschung 69, LLM-Training 38, Marketing 28, Sicherheit 24, Trading 20, Krypto 10" width="100%"></p>
-
-Eine Seite kann mehrere Themen haben. Die Grafik zählt die Seiten über Tools, Konzepte und Zusammenstellungen; die separaten Quellenzusammenfassungen kommen hinzu.
 
 <p align="center"><img src="assets/readme/tiles.svg" alt="287 Tools und Personen, 79 Konzepte, 5 Zusammenstellungen, 520 Quellen" width="100%"></p>
 
@@ -98,9 +109,11 @@ Eine Seite kann mehrere Themen haben. Die Grafik zählt die Seiten über Tools, 
 <a href="index.md#quellen">Quellen</a>
 </p>
 
-<p align="center"><img src="assets/readme/terminal.svg" alt="Terminal: git clone, in den Ordner wechseln, Ordner in Obsidian als Vault öffnen" width="100%"></p>
+<p align="center"><img src="assets/readme/topics.svg" alt="Seiten pro Thema: Tools 303, Agenten 258, Produktentwicklung 135, Forschung 69, LLM-Training 38, Marketing 28, Sicherheit 24, Trading 20, Krypto 10" width="100%"></p>
 
-## Kurz zur Nutzung
+## Lokal lesen
+
+<p align="center"><img src="assets/readme/terminal.svg" alt="Terminal: git clone, in den Ordner wechseln, Ordner in Obsidian als Vault öffnen" width="100%"></p>
 
 - Lies das Wiki auf GitHub oder öffne den heruntergeladenen Ordner in Obsidian als Vault. Zusätzliche Plugins brauchst du nicht. [Anleitung](START.md)
 - Die Seiten enthalten Zusammenfassungen und Originallinks. Angaben können veraltet sein; vollständige Fremdtexte und Originalmedien sind nicht enthalten. [Quellenstand](AKTUALITAET.md)
