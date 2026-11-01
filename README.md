@@ -44,7 +44,7 @@ Die Leseliste führt zu Büchern und den zugehörigen Quellen.
 
 ## Was die Sammlung abdeckt
 
-![Seiten pro Thema](assets/topics.png)
+<p align="center"><img src="assets/readme/topics.svg" alt="Seiten pro Thema: Tools 303, Agenten 258, Produktentwicklung 135, Forschung 69, LLM-Training 38, Marketing 28, Sicherheit 24, Trading 20, Krypto 10" width="100%"></p>
 
 Eine Seite kann mehrere Themen haben. Die Grafik zählt die Seiten über Tools, Konzepte und Zusammenstellungen; die separaten Quellenzusammenfassungen kommen hinzu.
 
