@@ -98,6 +98,8 @@ Eine Seite kann mehrere Themen haben. Die Grafik zählt die Seiten über Tools, 
 
 Insgesamt 891 Inhaltsseiten. Die zuletzt gepflegte Seite hat den Stand 2026-10-29.
 
+<p align="center"><img src="assets/readme/terminal.svg" alt="Terminal: git clone, in den Ordner wechseln, Ordner in Obsidian als Vault öffnen" width="100%"></p>
+
 ## Kurz zur Nutzung
 
 - Lies das Wiki auf GitHub oder öffne den heruntergeladenen Ordner in Obsidian als Vault. Zusätzliche Plugins brauchst du nicht. [Anleitung](START.md)
@@ -105,7 +107,8 @@ Insgesamt 891 Inhaltsseiten. Die zuletzt gepflegte Seite hat den Stand 2026-10-2
 - Updates holst du mit `git pull --ff-only` oder einem neuen ZIP. Sichere eigene Notizen vorher separat.
 - Es gilt keine pauschale offene Lizenz. [Nutzung und Rechte](NUTZUNG.md)
 
-## Mit einem KI-Agenten auf deinen PC holen
+<details>
+<summary><b>🤖 Lieber den Coding-Agenten machen lassen?</b> Auftrag zum Kopieren</summary>
 
 > [!TIP]
 > Kopiere diesen Auftrag in deinen Coding-Agenten:
@@ -121,3 +124,5 @@ Insgesamt 891 Inhaltsseiten. Die zuletzt gepflegte Seite hat den Stand 2026-10-2
 > Nenne mir anschließend den vollständigen Ordnerpfad und erkläre kurz,
 > wie ich diesen Ordner in Obsidian als Vault öffne.
 > ```
+
+</details>
