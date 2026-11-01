@@ -6,6 +6,15 @@
 <a href="START.md">In Obsidian öffnen</a>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Seiten-891-8b93ff?style=flat-square" alt="891 Seiten">
+<img src="https://img.shields.io/badge/Quellen-520-4fc9ae?style=flat-square" alt="520 Quellen">
+<img src="https://img.shields.io/badge/Links-2.517-e6ab6e?style=flat-square" alt="2.517 Links">
+<img src="https://img.shields.io/badge/Stand-2026--10--29-e088b0?style=flat-square" alt="Stand 2026-10-29">
+<img src="https://img.shields.io/badge/Obsidian-Vault-7c3aed?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian Vault">
+<a href="NUTZUNG.md"><img src="https://img.shields.io/badge/Lizenz-keine%20pauschale-lightgrey?style=flat-square" alt="Keine pauschale Lizenz"></a>
+</p>
+
 Hier findest du meine gespeicherten X-Posts als Wiki: mit Zusammenfassungen, Seiten zu einzelnen Tools und Methoden sowie Links zu den Originalquellen. Du kannst ein Thema nachschlagen, verwandte Werkzeuge entdecken und bei einer Aussage nachlesen, worauf sie sich stützt.
 
 Die meisten Seiten beschäftigen sich mit KI-Agenten und Tools. Daneben sammle ich Beiträge zu Produktentwicklung, Marketing, Forschung, Trading und weiteren Interessen. Du kannst die Sammlung hier auf GitHub lesen oder als Vault in Obsidian öffnen.
@@ -14,35 +23,65 @@ Die meisten Seiten beschäftigen sich mit KI-Agenten und Tools. Daneben sammle i
 
 ## Womit du anfangen kannst
 
-### Coding-Agenten einsetzen
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Lies nach, welche Rolle Claude Code übernimmt und welche Arbeitsweisen unter Agentic Engineering gesammelt sind.
+### 🤖 Coding-Agenten
+Welche Rolle Claude Code übernimmt und welche Arbeitsweisen unter Agentic Engineering gesammelt sind.
 
-[Claude Code](entities/Claude%20Code.md) · [Agentic Engineering](concepts/Agentic%20Engineering.md)
+[Claude Code](entities/Claude%20Code.md)<br>
+[Agentic Engineering](concepts/Agentic%20Engineering.md)
 
-### Kontext und Wissen für Agenten organisieren
+</td>
+<td width="33%" valign="top">
 
-Hier findest du Ansätze für Kontextverwaltung und ein Wiki als Gedächtnis für Agenten.
+### 🧠 Kontext & Gedächtnis
+Kontextverwaltung und ein Wiki als Gedächtnis für Agenten.
 
-[Context Engineering](concepts/Context%20Engineering.md) · [LLM Wiki Pattern](concepts/LLM%20Wiki%20Pattern.md)
+[Context Engineering](concepts/Context%20Engineering.md)<br>
+[LLM Wiki Pattern](concepts/LLM%20Wiki%20Pattern.md)
 
-### Mit KI Produkte gestalten
+</td>
+<td width="33%" valign="top">
 
-Diese Seiten behandeln Designvorgaben und Skills für Gestaltungsaufgaben.
+### 🎨 Produkte gestalten
+Designvorgaben und Skills für Gestaltungsaufgaben mit KI.
 
-[Design Markdown](entities/Design%20Markdown.md) · [Design Skills for Coding Agents](concepts/Design%20Skills%20for%20Coding%20Agents.md)
+[Design Markdown](entities/Design%20Markdown.md)<br>
+[Design Skills for Coding Agents](concepts/Design%20Skills%20for%20Coding%20Agents.md)
 
-### Marketing-Ideen nachschlagen
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-Stöbere in einer Taktikensammlung und sieh dir an, welche Aufgaben Marketing-Skills abdecken.
+### 📣 Marketing
+Eine Taktikensammlung und die Aufgaben, die Marketing-Skills abdecken.
 
-[Vibe Marketing Tactics](concepts/Vibe%20Marketing%20Tactics.md) · [Aaron Marketing Skills](entities/Aaron%20Marketing%20Skills.md)
+[Vibe Marketing Tactics](concepts/Vibe%20Marketing%20Tactics.md)<br>
+[Aaron Marketing Skills](entities/Aaron%20Marketing%20Skills.md)
 
-### Lesestoff zu KI und Data Science finden
+</td>
+<td valign="top">
 
-Die Leseliste führt zu Büchern und den zugehörigen Quellen.
+### 📚 Lesestoff
+Bücher zu KI und Data Science mit den zugehörigen Quellen.
 
 [AI and Data Science Reading List](synthesis/AI%20and%20Data%20Science%20Reading%20List.md)
+
+</td>
+<td valign="top">
+
+### 🧭 Mehr entdecken
+Trading, Krypto, Sicherheit, Forschung und LLM-Training.
+
+[**Alle Themen →**](THEMEN.md)<br>
+[Alle Seiten](index.md)
+
+</td>
+</tr>
+</table>
 
 ## Was die Sammlung abdeckt
 
