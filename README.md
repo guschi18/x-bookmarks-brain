@@ -15,9 +15,7 @@
 <a href="NUTZUNG.md"><img src="https://img.shields.io/badge/Lizenz-keine%20pauschale-lightgrey?style=flat-square" alt="Keine pauschale Lizenz"></a>
 </p>
 
-Hier findest du meine gespeicherten X-Posts als Wiki: mit Zusammenfassungen, Seiten zu einzelnen Tools und Methoden sowie Links zu den Originalquellen. Du kannst ein Thema nachschlagen, verwandte Werkzeuge entdecken und bei einer Aussage nachlesen, worauf sie sich stützt.
-
-Die meisten Seiten beschäftigen sich mit KI-Agenten und Tools. Daneben sammle ich Beiträge zu Produktentwicklung, Marketing, Forschung, Trading und weiteren Interessen. Du kannst die Sammlung hier auf GitHub lesen oder als Vault in Obsidian öffnen.
+**891 Seiten aus meinen gespeicherten X-Posts, als Wiki.** Zusammenfassungen, Seiten zu einzelnen Tools und Methoden, und bei jeder Aussage der Link zur Originalquelle. Der Schwerpunkt liegt auf KI-Agenten und Tools; dazu kommen Produktentwicklung, Marketing, Forschung und Trading. Lies es hier auf GitHub oder öffne es als Vault in Obsidian.
 
 ## So prüfst du eine Aussage
 
@@ -139,3 +137,13 @@ Die zuletzt angelegten Seiten (Stand 2026-10-28):
 > ```
 
 </details>
+
+<img src="assets/readme/divider.svg" alt="" width="100%">
+
+<p align="center">
+<b>Neugierig geworden?</b><br>
+<a href="THEMEN.md">Themen durchsuchen</a> ·
+<a href="index.md">Alle 891 Seiten</a> ·
+<a href="START.md">Obsidian-Anleitung</a> ·
+<a href="NUTZUNG.md">Nutzung &amp; Rechte</a>
+</p>
