@@ -89,14 +89,14 @@ Trading, Krypto, Sicherheit, Forschung und LLM-Training.
 
 Eine Seite kann mehrere Themen haben. Die Grafik zählt die Seiten über Tools, Konzepte und Zusammenstellungen; die separaten Quellenzusammenfassungen kommen hinzu.
 
-| Hier kannst du nachschlagen | Inhalt | Seiten |
-| --- | --- | ---: |
-| [Tools und Personen](index.md#entitäten) | Auch Produkte und Organisationen | 287 |
-| [Konzepte und Methoden](index.md#konzepte) | Erklärungen und Arbeitsweisen | 79 |
-| [Leselisten und Zusammenstellungen](index.md#synthesen) | Beiträge zu einem gemeinsamen Thema | 5 |
-| [Quellen](index.md#quellen) | Zusammenfassungen mit Originallinks | 520 |
+<p align="center"><img src="assets/readme/tiles.svg" alt="287 Tools und Personen, 79 Konzepte, 5 Zusammenstellungen, 520 Quellen" width="100%"></p>
 
-Insgesamt 891 Inhaltsseiten. Die zuletzt gepflegte Seite hat den Stand 2026-10-29.
+<p align="center">
+<a href="index.md#entitäten">Tools und Personen</a> ·
+<a href="index.md#konzepte">Konzepte</a> ·
+<a href="index.md#synthesen">Zusammenstellungen</a> ·
+<a href="index.md#quellen">Quellen</a>
+</p>
 
 <p align="center"><img src="assets/readme/terminal.svg" alt="Terminal: git clone, in den Ordner wechseln, Ordner in Obsidian als Vault öffnen" width="100%"></p>
 
