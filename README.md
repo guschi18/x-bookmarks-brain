@@ -1,14 +1,14 @@
-# X Bookmarks Brain
+<p align="center"><img src="assets/readme/hero.svg" alt="X Bookmarks Brain: 891 vernetzte Wiki-Seiten zu KI-Agenten und Tools. Tools finden. Methoden nachschlagen." width="100%"></p>
 
-Finde Tools und Methoden für deine Arbeit mit KI-Agenten.
+<p align="center">
+<a href="THEMEN.md"><b>Themen durchsuchen</b></a> ·
+<a href="index.md">Alle Seiten</a> ·
+<a href="START.md">In Obsidian öffnen</a>
+</p>
 
 Hier findest du meine gespeicherten X-Posts als Wiki: mit Zusammenfassungen, Seiten zu einzelnen Tools und Methoden sowie Links zu den Originalquellen. Du kannst ein Thema nachschlagen, verwandte Werkzeuge entdecken und bei einer Aussage nachlesen, worauf sie sich stützt.
 
 Die meisten Seiten beschäftigen sich mit KI-Agenten und Tools. Daneben sammle ich Beiträge zu Produktentwicklung, Marketing, Forschung, Trading und weiteren Interessen. Du kannst die Sammlung hier auf GitHub lesen oder als Vault in Obsidian öffnen.
-
-[Themen durchsuchen](THEMEN.md) · [Alle Seiten](index.md) · [In Obsidian öffnen](START.md)
-
-![Seiten und Links im X Bookmarks Brain](assets/brain-map.png)
 
 ## Womit du anfangen kannst
 
