@@ -90,10 +90,10 @@ Die zuletzt angelegten Seiten (Stand 2026-10-28):
 | Seite | Worum es geht |
 |---|---|
 | 🧩 [WebMCP](entities/WebMCP.md) | Laut dem Chrome-Entwicklerkonto ersetzt WebMCP das MCP nicht. |
-| 🧩 [OpenDuet](entities/OpenDuet.md) | OpenDuet ist eine Open-Source-Vorlage von CopilotKit für einen proaktiven KI-Agenten, der selbst gehostet wird und mit beliebigen… |
+| 🧩 [OpenDuet](entities/OpenDuet.md) | OpenDuet ist eine Open-Source-Vorlage von CopilotKit für einen proaktiven KI-Agenten, der selbst gehostet wird. |
 | 🧩 [Open Code Review](entities/Open%20Code%20Review.md) | Open Code Review ist ein quelloffenes CLI-Tool für KI-gestützte Code-Reviews. |
 | 🧩 [Hermit](entities/Hermit.md) | Hermit ist ein Open-Source-Framework der Infini-AI-Lab für Continual Learning und RSI durch Harness-Adapter-Evolution. |
-| 🧩 [DeepTutor](entities/DeepTutor.md) | DeepTutor ist ein quelloffener KI-Tutor der HKU (HKUDS) und läuft laut Post als Arbeitsbereich für Erklären, Üben, Tiefenrecherche… |
+| 🧩 [DeepTutor](entities/DeepTutor.md) | DeepTutor ist ein quelloffener KI-Tutor der HKU (HKUDS) und läuft laut Post als Arbeitsbereich für Erklären, Üben, Tiefenrecherche. |
 
 ## Was die Sammlung abdeckt
 
