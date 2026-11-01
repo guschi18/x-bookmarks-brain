@@ -10,6 +10,8 @@ Hier findest du meine gespeicherten X-Posts als Wiki: mit Zusammenfassungen, Sei
 
 Die meisten Seiten beschäftigen sich mit KI-Agenten und Tools. Daneben sammle ich Beiträge zu Produktentwicklung, Marketing, Forschung, Trading und weiteren Interessen. Du kannst die Sammlung hier auf GitHub lesen oder als Vault in Obsidian öffnen.
 
+<p align="center"><img src="assets/readme/belege.svg" alt="Beleg-Prinzip: Wiki-Seite mit Anker, Quellenseite mit Zusammenfassung, Original-Post auf X" width="100%"></p>
+
 ## Womit du anfangen kannst
 
 ### Coding-Agenten einsetzen
