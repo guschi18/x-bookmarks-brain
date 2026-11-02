@@ -1,8 +1,8 @@
 ---
 tags: [agents, product-building, tools]
-sources: [tweet-2064826394589442448.md, tweet-2063935703189262622.md, tweet-2055166454404661614.md, tweet-2082060635936805111.md, tweet-2103801891528573089.md, tweet-2103929525746938284.md, tweet-2098941338297458746.md, tweet-2097949495749390762.md, tweet-2093762643639115999.md, tweet-2093640804359180592.md, tweet-2093344589788643702.md, tweet-2106891315371737480.md, tweet-2085905362260312379.md, tweet-2112180280110776797.md, tweet-2112166940081004693.md, tweet-2111306174259691669.md, tweet-2110389810258968965.md]
+sources: [tweet-2064826394589442448.md, tweet-2063935703189262622.md, tweet-2055166454404661614.md, tweet-2082060635936805111.md, tweet-2103801891528573089.md, tweet-2103929525746938284.md, tweet-2098941338297458746.md, tweet-2097949495749390762.md, tweet-2093762643639115999.md, tweet-2093640804359180592.md, tweet-2093344589788643702.md, tweet-2106891315371737480.md, tweet-2085905362260312379.md, tweet-2112180280110776797.md, tweet-2112166940081004693.md, tweet-2111306174259691669.md, tweet-2110389810258968965.md, tweet-2115326446084493673.md, tweet-2115424619460997188.md]
 created: 2026-09-29
-updated: 2026-10-23
+updated: 2026-11-01
 ---
 
 # Agentic Video Production
@@ -112,3 +112,7 @@ Erfundene Kennzahlen, Testimonials und reale Personen sind untersagt, generierte
 Leon Lin zeigt eine 60-Sekunden-Animation des Claude-Maskottchens Clawd, nach eigenen Angaben mit [Claude Opus 5.5](../entities/Claude%20Opus%205.5.md) Ultracode erstellt; das Video hat kein Transkript, der Post keinen Prompt. [tweet-2110389810258968965](../sources/tweet-2110389810258968965.md)
 
 Den vom Nutzer ergänzten Prompt kennzeichnen diese Vorgaben: ein Ein-Minuten-Video, Assets wie SVGs online suchen und selbst nachbauen und animieren, 3D-Objekte rendern (etwa Claude-Code-Terminals oder Natur), kein Text und keine Schrift, ein echtes Video statt reiner Motion Graphics, eigene Ideen statt Kopien, und für den Ton nur freie, professionelle Sounds aus dem Netz, keine im Code erzeugten. Die Anti-Slop-Vorgabe ist eine Qualitätsanweisung, kein Nachweis der Ergebnisqualität; der vollständige Wortlaut steht in der Source. Die Zuordnung des Prompts zum gezeigten Video beruht auf der Angabe des Nutzers. [tweet-2110389810258968965](../sources/tweet-2110389810258968965.md)
+
+## Effekte und lokale Werkzeugschicht (Stand 2026-10)
+
+[Claude Video Effects](../entities/Claude%20Video%20Effects.md) ergänzt Talking-Head-Clips per Slash-Befehl um Gesichts-Tracking-Effekte; [tweet-2115326446084493673](../sources/tweet-2115326446084493673.md) [FFmpeg Skill](../entities/FFmpeg%20Skill.md) liefert die lokale Schnitt- und Messschicht mit 42 FFmpeg-Werkzeugen als Skill und MCP-Server, ohne Cloud und API-Schlüssel. [tweet-2115424619460997188](../sources/tweet-2115424619460997188.md) Beide sind README-Beschreibungen; Ausgabequalität wurde hier nicht getestet.

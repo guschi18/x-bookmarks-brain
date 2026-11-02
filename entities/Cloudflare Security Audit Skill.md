@@ -1,8 +1,8 @@
 ---
 tags: [security, agents, tools]
-sources: [tweet-2112973191157252103.md]
+sources: [tweet-2112973191157252103.md, tweet-2112623636905591040.md]
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-01
 ---
 
 # Cloudflare Security Audit Skill
@@ -35,3 +35,7 @@ Designprinzipien laut README: nur belegte Grenzverletzungen bestätigen, adversa
 ## Evidenzgrenze
 
 Alles stammt aus der gespeicherten README und dem Empfehlungspost. Der Skill wurde hier nicht ausgeführt; Trefferquote und Aussagen wie "findet viel mehr" sind unbelegt. Verwandt: [Claude Code Security Hardening](../concepts/Claude%20Code%20Security%20Hardening.md) (Absicherung von Claude Code selbst, nicht Code-Audit). [tweet-2112973191157252103](../sources/tweet-2112973191157252103.md)
+
+## Nachbarwerkzeuge (Stand 2026-10)
+
+Ein Sammelpost empfiehlt den Skill zusammen mit zwei weiteren Open-Source-Werkzeugen: [SkillSpector](SkillSpector.md) prüft fremde Agent-Skills vor der Installation, [Strix](Strix.md) führt Pentests gegen laufende Anwendungen aus. Die drei decken unterschiedliche Stufen ab (Code-Audit, Skill-Prüfung, dynamischer Test); der Post belegt keinen gemeinsamen Einsatz. [tweet-2112623636905591040](../sources/tweet-2112623636905591040.md)

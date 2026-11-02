@@ -8,7 +8,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Tools
 
-303 Wissensseiten · Tag `tools`
+308 Wissensseiten · Tag `tools`
 
 - [1k Papers](entities/1k%20Papers.md)
 - [21st.dev](entities/21st.dev.md)
@@ -84,6 +84,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Claude Sonnet 5.5](entities/Claude%20Sonnet%205.5.md)
 - [Claude Tag](entities/Claude%20Tag.md)
 - [Claude Use Cases](entities/Claude%20Use%20Cases.md)
+- [Claude Video Effects](entities/Claude%20Video%20Effects.md)
 - [Cloudflare Security Audit Skill](entities/Cloudflare%20Security%20Audit%20Skill.md)
 - [CMP Unlocker](entities/CMP%20Unlocker.md)
 - [Cmux](entities/Cmux.md)
@@ -118,6 +119,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Factory AI](entities/Factory%20AI.md)
 - [Fan-Out Refactor Review](concepts/Fan-Out%20Refactor%20Review.md)
 - [Fast Flights](entities/Fast%20Flights.md)
+- [FFmpeg Skill](entities/FFmpeg%20Skill.md)
 - [FilmCraft](entities/FilmCraft.md)
 - [Financial Datasets](entities/Financial%20Datasets.md)
 - [Financial Research Directory](concepts/Financial%20Research%20Directory.md)
@@ -224,6 +226,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [OpenGym](entities/OpenGym.md)
 - [OpenJev NLI](entities/OpenJev%20NLI.md)
 - [OpenMarket](entities/OpenMarket.md)
+- [OpenMausBot](entities/OpenMausBot.md)
 - [OpenNews MCP](entities/OpenNews%20MCP.md)
 - [OpenShell](entities/OpenShell.md)
 - [OpenUI](entities/OpenUI.md)
@@ -271,6 +274,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Skill Cleaner](entities/Skill%20Cleaner.md)
 - [Skill Doctor](entities/Skill%20Doctor.md)
 - [SkillsGate](entities/SkillsGate.md)
+- [SkillSpector](entities/SkillSpector.md)
 - [SkillUI](entities/SkillUI.md)
 - [Slopo](entities/Slopo.md)
 - [SnagTime](entities/SnagTime.md)
@@ -279,6 +283,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Squeaky Clean](entities/Squeaky%20Clean.md)
 - [Startup Validator](entities/Startup%20Validator.md)
 - [Straitly](entities/Straitly.md)
+- [Strix](entities/Strix.md)
 - [SwarmForge](entities/SwarmForge.md)
 - [System One Computer Use](entities/System%20One%20Computer%20Use.md)
 - [T3 Code](entities/T3%20Code.md)
@@ -316,7 +321,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Agenten
 
-258 Wissensseiten · Tag `agents`
+263 Wissensseiten · Tag `agents`
 
 - [12-Factor Agents](concepts/12-Factor%20Agents.md)
 - [Aaron Marketing Skills](entities/Aaron%20Marketing%20Skills.md)
@@ -398,6 +403,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Claude Sonnet 5.5](entities/Claude%20Sonnet%205.5.md)
 - [Claude Tag](entities/Claude%20Tag.md)
 - [Claude Use Cases](entities/Claude%20Use%20Cases.md)
+- [Claude Video Effects](entities/Claude%20Video%20Effects.md)
 - [Cloudflare Security Audit Skill](entities/Cloudflare%20Security%20Audit%20Skill.md)
 - [Cmux](entities/Cmux.md)
 - [Codebase Maps](concepts/Codebase%20Maps.md)
@@ -427,6 +433,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Fable](entities/Fable.md)
 - [Factory AI](entities/Factory%20AI.md)
 - [Fan-Out Refactor Review](concepts/Fan-Out%20Refactor%20Review.md)
+- [FFmpeg Skill](entities/FFmpeg%20Skill.md)
 - [FreeToken](entities/FreeToken.md)
 - [Gauntlet Loop](concepts/Gauntlet%20Loop.md)
 - [Google ADK](entities/Google%20ADK.md)
@@ -507,6 +514,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [OpenDots](entities/OpenDots.md)
 - [OpenDuet](entities/OpenDuet.md)
 - [Opengrok](entities/Opengrok.md)
+- [OpenMausBot](entities/OpenMausBot.md)
 - [OpenNews MCP](entities/OpenNews%20MCP.md)
 - [OpenShell](entities/OpenShell.md)
 - [OpenUI](entities/OpenUI.md)
@@ -544,6 +552,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Skill Cleaner](entities/Skill%20Cleaner.md)
 - [Skill Doctor](entities/Skill%20Doctor.md)
 - [SkillsGate](entities/SkillsGate.md)
+- [SkillSpector](entities/SkillSpector.md)
 - [SkillUI](entities/SkillUI.md)
 - [Slopo](entities/Slopo.md)
 - [SnagTime](entities/SnagTime.md)
@@ -552,6 +561,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Spec-Driven Development](concepts/Spec-Driven%20Development.md)
 - [Squad](entities/Squad.md)
 - [Squeaky Clean](entities/Squeaky%20Clean.md)
+- [Strix](entities/Strix.md)
 - [Subagent Consolidation](concepts/Subagent%20Consolidation.md)
 - [SwarmForge](entities/SwarmForge.md)
 - [System One Computer Use](entities/System%20One%20Computer%20Use.md)
@@ -579,7 +589,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Produktentwicklung
 
-135 Wissensseiten · Tag `product-building`
+136 Wissensseiten · Tag `product-building`
 
 - [12-Factor Agents](concepts/12-Factor%20Agents.md)
 - [21st.dev](entities/21st.dev.md)
@@ -676,6 +686,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [OpenDesign](entities/OpenDesign.md)
 - [OpenDuet](entities/OpenDuet.md)
 - [OpenGym](entities/OpenGym.md)
+- [OpenMausBot](entities/OpenMausBot.md)
 - [OpenUI](entities/OpenUI.md)
 - [OriginKit](entities/OriginKit.md)
 - [Performance Optimization Ratchets](concepts/Performance%20Optimization%20Ratchets.md)
@@ -719,7 +730,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Forschung
 
-69 Wissensseiten · Tag `research`
+70 Wissensseiten · Tag `research`
 
 - [1k Papers](entities/1k%20Papers.md)
 - [Academic Research Skills](entities/Academic%20Research%20Skills.md)
@@ -781,6 +792,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Robotics Learning Roadmap](concepts/Robotics%20Learning%20Roadmap.md)
 - [RuView](entities/RuView.md)
 - [SANA-WM](entities/SANA-WM.md)
+- [Scrolling as Anesthesia](concepts/Scrolling%20as%20Anesthesia.md)
 - [Software 3.0](concepts/Software%203.0.md)
 - [Spec-Driven Development](concepts/Spec-Driven%20Development.md)
 - [The Book of Secret Knowledge](entities/The%20Book%20of%20Secret%20Knowledge.md)
@@ -793,7 +805,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## LLM-Training
 
-38 Wissensseiten · Tag `llm-training`
+39 Wissensseiten · Tag `llm-training`
 
 - [Agent Learning Resources](concepts/Agent%20Learning%20Resources.md)
 - [AI and Data Science Reading List](synthesis/AI%20and%20Data%20Science%20Reading%20List.md)
@@ -810,6 +822,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Gemini Embedding 2](entities/Gemini%20Embedding%202.md)
 - [Google Colab VS Code](entities/Google%20Colab%20VS%20Code.md)
 - [Hermit](entities/Hermit.md)
+- [Hinoki Offensive One](entities/Hinoki%20Offensive%20One.md)
 - [HyperQwen](entities/HyperQwen.md)
 - [Interaction Models](concepts/Interaction%20Models.md)
 - [LeWorldModel](entities/LeWorldModel.md)
@@ -869,7 +882,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Sicherheit
 
-24 Wissensseiten · Tag `security`
+27 Wissensseiten · Tag `security`
 
 - [AI Sovereignty](concepts/AI%20Sovereignty.md)
 - [Awesome CAN Bus](entities/Awesome%20CAN%20Bus.md)
@@ -882,6 +895,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Exocortex](concepts/Exocortex.md)
 - [Flowsint](entities/Flowsint.md)
 - [Graphify](entities/Graphify.md)
+- [Hinoki Offensive One](entities/Hinoki%20Offensive%20One.md)
 - [JARVIS](entities/JARVIS.md)
 - [Ladder](entities/Ladder.md)
 - [Magika](entities/Magika.md)
@@ -893,6 +907,8 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [OpenVPN Install](entities/OpenVPN%20Install.md)
 - [Paperclip](entities/Paperclip.md)
 - [Personal Cybersecurity Baseline](concepts/Personal%20Cybersecurity%20Baseline.md)
+- [SkillSpector](entities/SkillSpector.md)
+- [Strix](entities/Strix.md)
 - [Supabase](entities/Supabase.md)
 - [The Book of Secret Knowledge](entities/The%20Book%20of%20Secret%20Knowledge.md)
 
@@ -935,3 +951,9 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Polymarket Five-Minute Trading](synthesis/Polymarket%20Five-Minute%20Trading.md)
 - [Polymarket Trading Bot](entities/Polymarket%20Trading%20Bot.md)
 - [Scarlett](entities/Scarlett.md)
+
+## mental-health
+
+1 Wissensseiten · Tag `mental-health`
+
+- [Scrolling as Anesthesia](concepts/Scrolling%20as%20Anesthesia.md)

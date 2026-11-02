@@ -1,28 +1,28 @@
 {
-  "pages": 891,
-  "sources": 520,
-  "edges": 2517,
-  "updated": "2026-10-29",
+  "pages": 904,
+  "sources": 526,
+  "edges": 2555,
+  "updated": "2026-11-01",
   "topics": [
     {
       "tag": "tools",
-      "count": 703
+      "count": 712
     },
     {
       "tag": "agents",
-      "count": 657
+      "count": 666
     },
     {
       "tag": "product-building",
-      "count": 314
+      "count": 315
     },
     {
       "tag": "research",
-      "count": 159
+      "count": 161
     },
     {
       "tag": "llm-training",
-      "count": 79
+      "count": 81
     },
     {
       "tag": "marketing",
@@ -30,7 +30,7 @@
     },
     {
       "tag": "security",
-      "count": 50
+      "count": 55
     },
     {
       "tag": "trading",
@@ -39,28 +39,32 @@
     {
       "tag": "crypto",
       "count": 22
+    },
+    {
+      "tag": "mental-health",
+      "count": 2
     }
   ],
   "knowledge_topics": [
     {
       "tag": "tools",
-      "count": 303
+      "count": 308
     },
     {
       "tag": "agents",
-      "count": 258
+      "count": 263
     },
     {
       "tag": "product-building",
-      "count": 135
+      "count": 136
     },
     {
       "tag": "research",
-      "count": 69
+      "count": 70
     },
     {
       "tag": "llm-training",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "marketing",
@@ -68,7 +72,7 @@
     },
     {
       "tag": "security",
-      "count": 24
+      "count": 27
     },
     {
       "tag": "trading",
@@ -77,6 +81,10 @@
     {
       "tag": "crypto",
       "count": 10
+    },
+    {
+      "tag": "mental-health",
+      "count": 1
     }
   ],
   "nodes": [
@@ -800,6 +808,16 @@
       "path": "entities/Claude Use Cases.md"
     },
     {
+      "name": "Claude Video Effects",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 4,
+      "path": "entities/Claude Video Effects.md"
+    },
+    {
       "name": "Cloudflare Security Audit Skill",
       "group": "entities",
       "tags": [
@@ -807,7 +825,7 @@
         "agents",
         "tools"
       ],
-      "degree": 3,
+      "degree": 10,
       "path": "entities/Cloudflare Security Audit Skill.md"
     },
     {
@@ -1143,6 +1161,16 @@
       "path": "entities/Felix Gerlach Ecosystem.md"
     },
     {
+      "name": "FFmpeg Skill",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 4,
+      "path": "entities/FFmpeg Skill.md"
+    },
+    {
       "name": "FilmCraft",
       "group": "entities",
       "tags": [
@@ -1361,7 +1389,7 @@
         "agents",
         "tools"
       ],
-      "degree": 3,
+      "degree": 4,
       "path": "entities/GrokBot.dev.md"
     },
     {
@@ -1415,6 +1443,16 @@
       ],
       "degree": 4,
       "path": "entities/Hermit.md"
+    },
+    {
+      "name": "Hinoki Offensive One",
+      "group": "entities",
+      "tags": [
+        "security",
+        "llm-training"
+      ],
+      "degree": 4,
+      "path": "entities/Hinoki Offensive One.md"
     },
     {
       "name": "HTML Plan",
@@ -2085,7 +2123,7 @@
         "security",
         "product-building"
       ],
-      "degree": 8,
+      "degree": 12,
       "path": "entities/OpenBot.md"
     },
     {
@@ -2190,6 +2228,17 @@
       ],
       "degree": 3,
       "path": "entities/OpenMarket.md"
+    },
+    {
+      "name": "OpenMausBot",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools",
+        "product-building"
+      ],
+      "degree": 5,
+      "path": "entities/OpenMausBot.md"
     },
     {
       "name": "OpenNews MCP",
@@ -2627,6 +2676,17 @@
       "path": "entities/SkillsGate.md"
     },
     {
+      "name": "SkillSpector",
+      "group": "entities",
+      "tags": [
+        "security",
+        "agents",
+        "tools"
+      ],
+      "degree": 7,
+      "path": "entities/SkillSpector.md"
+    },
+    {
       "name": "SkillUI",
       "group": "entities",
       "tags": [
@@ -2709,6 +2769,17 @@
       ],
       "degree": 5,
       "path": "entities/Straitly.md"
+    },
+    {
+      "name": "Strix",
+      "group": "entities",
+      "tags": [
+        "security",
+        "agents",
+        "tools"
+      ],
+      "degree": 7,
+      "path": "entities/Strix.md"
     },
     {
       "name": "Supabase",
@@ -3210,7 +3281,7 @@
         "product-building",
         "tools"
       ],
-      "degree": 60,
+      "degree": 68,
       "path": "concepts/Agentic Video Production.md"
     },
     {
@@ -3314,7 +3385,7 @@
         "agents",
         "tools"
       ],
-      "degree": 13,
+      "degree": 14,
       "path": "concepts/Claude Code Security Hardening.md"
     },
     {
@@ -3795,6 +3866,16 @@
       ],
       "degree": 6,
       "path": "concepts/Robotics Learning Roadmap.md"
+    },
+    {
+      "name": "Scrolling as Anesthesia",
+      "group": "concepts",
+      "tags": [
+        "mental-health",
+        "research"
+      ],
+      "degree": 2,
+      "path": "concepts/Scrolling as Anesthesia.md"
     },
     {
       "name": "Session History Review",
@@ -8993,6 +9074,17 @@
       "path": "sources/tweet-2112528257924964751.md"
     },
     {
+      "name": "tweet-2112623636905591040",
+      "group": "sources",
+      "tags": [
+        "security",
+        "agents",
+        "tools"
+      ],
+      "degree": 6,
+      "path": "sources/tweet-2112623636905591040.md"
+    },
+    {
       "name": "tweet-2112922431237062936",
       "group": "sources",
       "tags": [
@@ -9297,6 +9389,56 @@
       ],
       "degree": 4,
       "path": "sources/tweet-2115097056394240293.md"
+    },
+    {
+      "name": "tweet-2115215878220558547",
+      "group": "sources",
+      "tags": [
+        "security",
+        "llm-training"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2115215878220558547.md"
+    },
+    {
+      "name": "tweet-2115326446084493673",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 4,
+      "path": "sources/tweet-2115326446084493673.md"
+    },
+    {
+      "name": "tweet-2115355703682670950",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 4,
+      "path": "sources/tweet-2115355703682670950.md"
+    },
+    {
+      "name": "tweet-2115424619460997188",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 4,
+      "path": "sources/tweet-2115424619460997188.md"
+    },
+    {
+      "name": "tweet-2115917643656179998",
+      "group": "sources",
+      "tags": [
+        "mental-health",
+        "research"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2115917643656179998.md"
     }
   ],
   "links": [
@@ -10246,11 +10388,19 @@
     ],
     [
       "Agentic Video Production",
+      "Claude Video Effects"
+    ],
+    [
+      "Agentic Video Production",
       "DaVinci Resolve"
     ],
     [
       "Agentic Video Production",
       "Diffusion Studio"
+    ],
+    [
+      "Agentic Video Production",
+      "FFmpeg Skill"
     ],
     [
       "Agentic Video Production",
@@ -10355,6 +10505,14 @@
     [
       "Agentic Video Production",
       "tweet-2112180280110776797"
+    ],
+    [
+      "Agentic Video Production",
+      "tweet-2115326446084493673"
+    ],
+    [
+      "Agentic Video Production",
+      "tweet-2115424619460997188"
     ],
     [
       "Agentloop",
@@ -11709,6 +11867,14 @@
       "tweet-1987943382073962954"
     ],
     [
+      "Claude Video Effects",
+      "Agentic Video Production"
+    ],
+    [
+      "Claude Video Effects",
+      "tweet-2115326446084493673"
+    ],
+    [
       "Claude for Financial Services",
       "Claude Code"
     ],
@@ -11723,6 +11889,18 @@
     [
       "Cloudflare Security Audit Skill",
       "Claude Code Security Hardening"
+    ],
+    [
+      "Cloudflare Security Audit Skill",
+      "SkillSpector"
+    ],
+    [
+      "Cloudflare Security Audit Skill",
+      "Strix"
+    ],
+    [
+      "Cloudflare Security Audit Skill",
+      "tweet-2112623636905591040"
     ],
     [
       "Cloudflare Security Audit Skill",
@@ -12653,6 +12831,14 @@
       "tweet-2105842218418544773"
     ],
     [
+      "FFmpeg Skill",
+      "Agentic Video Production"
+    ],
+    [
+      "FFmpeg Skill",
+      "tweet-2115424619460997188"
+    ],
+    [
       "Fable",
       "Agent Unknowns"
     ],
@@ -13111,6 +13297,18 @@
     [
       "Hermit",
       "tweet-2114769723879464983"
+    ],
+    [
+      "Hinoki Offensive One",
+      "Cloudflare Security Audit Skill"
+    ],
+    [
+      "Hinoki Offensive One",
+      "Strix"
+    ],
+    [
+      "Hinoki Offensive One",
+      "tweet-2115215878220558547"
     ],
     [
       "Hook-Enforced Model Routing",
@@ -14570,11 +14768,19 @@
     ],
     [
       "OpenBot",
+      "OpenMausBot"
+    ],
+    [
+      "OpenBot",
       "tweet-2098354614856744978"
     ],
     [
       "OpenBot",
       "tweet-2115097056394240293"
+    ],
+    [
+      "OpenBot",
+      "tweet-2115355703682670950"
     ],
     [
       "OpenChronicle",
@@ -14671,6 +14877,18 @@
     [
       "OpenMarket",
       "tweet-2104254223517106349"
+    ],
+    [
+      "OpenMausBot",
+      "GrokBot.dev"
+    ],
+    [
+      "OpenMausBot",
+      "OpenBot"
+    ],
+    [
+      "OpenMausBot",
+      "tweet-2115355703682670950"
     ],
     [
       "OpenNews MCP",
@@ -15217,6 +15435,10 @@
       "tweet-2091265597237608664"
     ],
     [
+      "Scrolling as Anesthesia",
+      "tweet-2115917643656179998"
+    ],
+    [
       "Session History Review",
       "Agent History Reflection"
     ],
@@ -15339,6 +15561,22 @@
     [
       "Skill Doctor",
       "tweet-2093370341418582346"
+    ],
+    [
+      "SkillSpector",
+      "Claude Code Security Hardening"
+    ],
+    [
+      "SkillSpector",
+      "Cloudflare Security Audit Skill"
+    ],
+    [
+      "SkillSpector",
+      "Strix"
+    ],
+    [
+      "SkillSpector",
+      "tweet-2112623636905591040"
     ],
     [
       "SkillUI",
@@ -15491,6 +15729,18 @@
     [
       "Straitly",
       "tweet-2097742952013656260"
+    ],
+    [
+      "Strix",
+      "Cloudflare Security Audit Skill"
+    ],
+    [
+      "Strix",
+      "SkillSpector"
+    ],
+    [
+      "Strix",
+      "tweet-2112623636905591040"
     ],
     [
       "Subagent Consolidation",
@@ -19209,6 +19459,18 @@
       "Warp"
     ],
     [
+      "tweet-2112623636905591040",
+      "Cloudflare Security Audit Skill"
+    ],
+    [
+      "tweet-2112623636905591040",
+      "SkillSpector"
+    ],
+    [
+      "tweet-2112623636905591040",
+      "Strix"
+    ],
+    [
       "tweet-2112922431237062936",
       "Chops"
     ],
@@ -19367,6 +19629,38 @@
     [
       "tweet-2115097056394240293",
       "OpenDuet"
+    ],
+    [
+      "tweet-2115215878220558547",
+      "Hinoki Offensive One"
+    ],
+    [
+      "tweet-2115326446084493673",
+      "Agentic Video Production"
+    ],
+    [
+      "tweet-2115326446084493673",
+      "Claude Video Effects"
+    ],
+    [
+      "tweet-2115355703682670950",
+      "OpenBot"
+    ],
+    [
+      "tweet-2115355703682670950",
+      "OpenMausBot"
+    ],
+    [
+      "tweet-2115424619460997188",
+      "Agentic Video Production"
+    ],
+    [
+      "tweet-2115424619460997188",
+      "FFmpeg Skill"
+    ],
+    [
+      "tweet-2115917643656179998",
+      "Scrolling as Anesthesia"
     ]
   ]
 }

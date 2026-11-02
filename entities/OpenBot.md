@@ -1,8 +1,8 @@
 ---
 tags: [agents, tools, security, product-building]
-sources: [tweet-2098354614856744978.md, tweet-2115097056394240293.md]
+sources: [tweet-2098354614856744978.md, tweet-2115097056394240293.md, tweet-2115355703682670950.md]
 created: 2026-10-08
-updated: 2026-10-28
+updated: 2026-11-01
 ---
 
 # OpenBot
@@ -32,3 +32,7 @@ Die gespeicherte README bezeichnet OpenBot als Vorlage unter aktiver Entwicklung
 ## Verwandtes Produkt OpenDuet (Stand 2026-10)
 
 Die README von [OpenDuet](OpenDuet.md) nennt, dass OpenDuet heute als OpenBot läuft, mit eigenem Namen, Bots und Skills darüber. [tweet-2115097056394240293](../sources/tweet-2115097056394240293.md) Damit ist OpenDuet eine proaktive Ausprägung derselben Plattform, nicht ein getrenntes System; das ist eine Herstellerangabe der README. [tweet-2115097056394240293](../sources/tweet-2115097056394240293.md)
+
+## Verwandt: OpenMausBot (Stand 2026-10)
+
+[OpenMausBot](OpenMausBot.md) ist ein unabhängiges Open-Source-Projekt mit ähnlicher Form (Bots mit eigenem Computer in einer Chat-App), läuft aber lokal auf den installierten Claude-, Codex- und Grok-CLIs statt auf der AG-UI-Plattform. Es ist nicht Teil von CopilotKits OpenBot. [tweet-2115355703682670950](../sources/tweet-2115355703682670950.md)

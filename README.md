@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/readme/hero.svg" alt="X Bookmarks Brain: 891 vernetzte Wiki-Seiten zu KI-Agenten und Tools. Tools finden. Methoden nachschlagen." width="100%"></p>
+<p align="center"><img src="assets/readme/hero.svg" alt="X Bookmarks Brain: 904 vernetzte Wiki-Seiten zu KI-Agenten und Tools. Tools finden. Methoden nachschlagen." width="100%"></p>
 
 <p align="center">
 <a href="THEMEN.md"><b>Themen durchsuchen</b></a> ·
@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Seiten-891-8b93ff?style=flat-square" alt="891 Seiten">
-<img src="https://img.shields.io/badge/Quellen-520-4fc9ae?style=flat-square" alt="520 Quellen">
-<img src="https://img.shields.io/badge/Links-2.517-e6ab6e?style=flat-square" alt="2.517 Links">
-<img src="https://img.shields.io/badge/Stand-2026--10--29-e088b0?style=flat-square" alt="Stand 2026-10-29">
+<img src="https://img.shields.io/badge/Seiten-904-8b93ff?style=flat-square" alt="904 Seiten">
+<img src="https://img.shields.io/badge/Quellen-526-4fc9ae?style=flat-square" alt="526 Quellen">
+<img src="https://img.shields.io/badge/Links-2.555-e6ab6e?style=flat-square" alt="2.555 Links">
+<img src="https://img.shields.io/badge/Stand-2026--11--01-e088b0?style=flat-square" alt="Stand 2026-11-01">
 <img src="https://img.shields.io/badge/Obsidian-Vault-7c3aed?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian Vault">
 <a href="NUTZUNG.md"><img src="https://img.shields.io/badge/Lizenz-keine%20pauschale-lightgrey?style=flat-square" alt="Keine pauschale Lizenz"></a>
 </p>
 
-**891 Seiten aus meinen gespeicherten X-Posts, als Wiki.** Zusammenfassungen, Seiten zu einzelnen Tools und Methoden, und bei jeder Aussage der Link zur Originalquelle. Der Schwerpunkt liegt auf KI-Agenten und Tools; dazu kommen Produktentwicklung, Marketing, Forschung und Trading. Lies es hier auf GitHub oder öffne es als Vault in Obsidian.
+**904 Seiten aus meinen gespeicherten X-Posts, als Wiki.** Zusammenfassungen, Seiten zu einzelnen Tools und Methoden, und bei jeder Aussage der Link zur Originalquelle. Der Schwerpunkt liegt auf KI-Agenten und Tools; dazu kommen Produktentwicklung, Marketing, Forschung und Trading. Lies es hier auf GitHub oder öffne es als Vault in Obsidian.
 
 ## So prüfst du eine Aussage
 
@@ -85,19 +85,19 @@ Trading, Krypto, Sicherheit, Forschung und LLM-Training.
 
 ## Neu im Brain
 
-Die zuletzt angelegten Seiten (Stand 2026-10-28):
+Die zuletzt angelegten Seiten (Stand 2026-11-01):
 
 | Seite | Worum es geht |
 |---|---|
-| 🧩 [WebMCP](entities/WebMCP.md) | Laut dem Chrome-Entwicklerkonto ersetzt WebMCP das MCP nicht. |
-| 🧩 [OpenDuet](entities/OpenDuet.md) | OpenDuet ist eine Open-Source-Vorlage von CopilotKit für einen proaktiven KI-Agenten, der selbst gehostet wird. |
-| 🧩 [Open Code Review](entities/Open%20Code%20Review.md) | Open Code Review ist ein quelloffenes CLI-Tool für KI-gestützte Code-Reviews. |
-| 🧩 [Hermit](entities/Hermit.md) | Hermit ist ein Open-Source-Framework der Infini-AI-Lab für Continual Learning und RSI durch Harness-Adapter-Evolution. |
-| 🧩 [DeepTutor](entities/DeepTutor.md) | DeepTutor ist ein quelloffener KI-Tutor der HKU (HKUDS) und läuft laut Post als Arbeitsbereich für Erklären, Üben, Tiefenrecherche. |
+| 🧩 [Strix](entities/Strix.md) | usestrix/strix ist ein Open-Source-Werkzeug aus autonomen KI-Agenten. |
+| 🧩 [SkillSpector](entities/SkillSpector.md) | NVIDIA/SkillSpector ist ein Sicherheitsscanner für KI-Agent-Skills (Claude Code, Codex, MCP). |
+| 💡 [Scrolling as Anesthesia](concepts/Scrolling%20as%20Anesthesia.md) | Chris Lakin vertritt die These, dass Menschen nicht von Scrollen, Vapen oder Überarbeitung abhängig sind. |
+| 🧩 [OpenMausBot](entities/OpenMausBot.md) | milind-soni/OpenMausBot ist ein unabhängiges Open-Source-Projekt (Apache 2.0). |
+| 🧩 [Hinoki Offensive One](entities/Hinoki%20Offensive%20One.md) | Hinoki Offensive One (HO1) ist ein LLM für Pentesting und Exploit-Entwicklung der Firma Hinoki (San Francisco). |
 
 ## Was die Sammlung abdeckt
 
-<p align="center"><img src="assets/readme/tiles.svg" alt="287 Tools und Personen, 79 Konzepte, 5 Zusammenstellungen, 520 Quellen" width="100%"></p>
+<p align="center"><img src="assets/readme/tiles.svg" alt="293 Tools und Personen, 80 Konzepte, 5 Zusammenstellungen, 526 Quellen" width="100%"></p>
 
 <p align="center">
 <a href="index.md#entitäten">Tools und Personen</a> ·
@@ -106,7 +106,7 @@ Die zuletzt angelegten Seiten (Stand 2026-10-28):
 <a href="index.md#quellen">Quellen</a>
 </p>
 
-<p align="center"><img src="assets/readme/topics.svg" alt="Seiten pro Thema: Tools 303, Agenten 258, Produktentwicklung 135, Forschung 69, LLM-Training 38, Marketing 28, Sicherheit 24, Trading 20, Krypto 10" width="100%"></p>
+<p align="center"><img src="assets/readme/topics.svg" alt="Seiten pro Thema: Tools 308, Agenten 263, Produktentwicklung 136, Forschung 70, LLM-Training 39, Marketing 28, Sicherheit 27, Trading 20, Krypto 10" width="100%"></p>
 
 ## Lokal lesen
 
@@ -142,7 +142,7 @@ Die zuletzt angelegten Seiten (Stand 2026-10-28):
 <p align="center">
 <b>Neugierig geworden?</b><br>
 <a href="THEMEN.md">Themen durchsuchen</a> ·
-<a href="index.md">Alle 891 Seiten</a> ·
+<a href="index.md">Alle 904 Seiten</a> ·
 <a href="START.md">Obsidian-Anleitung</a> ·
 <a href="NUTZUNG.md">Nutzung &amp; Rechte</a>
 </p>

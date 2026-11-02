@@ -1,6 +1,6 @@
 # Quellen und Aktualität
 
-Die zuletzt gepflegte Seite hat den Stand 2026-10-29. Einzelne Abschnitte können sich auf deutlich ältere Beiträge beziehen.
+Die zuletzt gepflegte Seite hat den Stand 2026-11-01. Einzelne Abschnitte können sich auf deutlich ältere Beiträge beziehen.
 
 ## Prüfe den Stand einer Empfehlung
 
