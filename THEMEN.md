@@ -8,7 +8,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Tools
 
-308 Wissensseiten · Tag `tools`
+311 Wissensseiten · Tag `tools`
 
 - [1k Papers](entities/1k%20Papers.md)
 - [21st.dev](entities/21st.dev.md)
@@ -97,10 +97,12 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Codex Plugin for Claude Code](entities/Codex%20Plugin%20for%20Claude%20Code.md)
 - [Component Gallery](entities/Component%20Gallery.md)
 - [Context Engineering](concepts/Context%20Engineering.md)
+- [Copilot Record a Skill](entities/Copilot%20Record%20a%20Skill.md)
 - [Dash](entities/Dash.md)
 - [David Ondrej Skills](entities/David%20Ondrej%20Skills.md)
 - [DaVinci Resolve](entities/DaVinci%20Resolve.md)
 - [Deepsec](entities/Deepsec.md)
+- [DeepSeek Superagent](entities/DeepSeek%20Superagent.md)
 - [DeepTutor](entities/DeepTutor.md)
 - [DeerFlow](entities/DeerFlow.md)
 - [Dembrandt](entities/Dembrandt.md)
@@ -258,6 +260,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Reclip](entities/Reclip.md)
 - [Reinforcement Learning for Trading](concepts/Reinforcement%20Learning%20for%20Trading.md)
 - [Remote Agent Access](concepts/Remote%20Agent%20Access.md)
+- [Rex Claude](entities/Rex%20Claude.md)
 - [Riley Todo Skill](entities/Riley%20Todo%20Skill.md)
 - [Robotics Learning Roadmap](concepts/Robotics%20Learning%20Roadmap.md)
 - [Rowboat](entities/Rowboat.md)
@@ -321,7 +324,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Agenten
 
-263 Wissensseiten · Tag `agents`
+265 Wissensseiten · Tag `agents`
 
 - [12-Factor Agents](concepts/12-Factor%20Agents.md)
 - [Aaron Marketing Skills](entities/Aaron%20Marketing%20Skills.md)
@@ -418,6 +421,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Dash](entities/Dash.md)
 - [David Ondrej Skills](entities/David%20Ondrej%20Skills.md)
 - [DaVinci Resolve](entities/DaVinci%20Resolve.md)
+- [DeepSeek Superagent](entities/DeepSeek%20Superagent.md)
 - [DeerFlow](entities/DeerFlow.md)
 - [Design Markdown](entities/Design%20Markdown.md)
 - [Diffusion Studio](entities/Diffusion%20Studio.md)
@@ -540,6 +544,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [REA](entities/REA.md)
 - [Remote Agent Access](concepts/Remote%20Agent%20Access.md)
 - [Retrospective Self-Distillation](concepts/Retrospective%20Self-Distillation.md)
+- [Rex Claude](entities/Rex%20Claude.md)
 - [Riley Todo Skill](entities/Riley%20Todo%20Skill.md)
 - [Rowboat](entities/Rowboat.md)
 - [Sandcastle](entities/Sandcastle.md)
@@ -589,7 +594,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 
 ## Produktentwicklung
 
-136 Wissensseiten · Tag `product-building`
+137 Wissensseiten · Tag `product-building`
 
 - [12-Factor Agents](concepts/12-Factor%20Agents.md)
 - [21st.dev](entities/21st.dev.md)
@@ -631,6 +636,7 @@ Wähle ein Thema und öffne eine Seite, die dich interessiert. Manche Seiten ers
 - [Codex](entities/Codex.md)
 - [Coding Standards File](concepts/Coding%20Standards%20File.md)
 - [Component Gallery](entities/Component%20Gallery.md)
+- [Copilot Record a Skill](entities/Copilot%20Record%20a%20Skill.md)
 - [Dark Portfolio Landing Page Prompt](concepts/Dark%20Portfolio%20Landing%20Page%20Prompt.md)
 - [DaVinci Resolve](entities/DaVinci%20Resolve.md)
 - [DeerFlow](entities/DeerFlow.md)

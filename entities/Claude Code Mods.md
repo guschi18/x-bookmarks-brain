@@ -1,8 +1,8 @@
 ---
 tags: [agents, tools]
-sources: [tweet-2106455605925822967.md, tweet-2106412212978098295.md, tweet-2106143340794454346.md, tweet-2106118517447876618.md, tweet-2105721441622884802.md, tweet-2113026278504755415.md, tweet-2109822699174559748.md, tweet-2113949078866518310.md]
+sources: [tweet-2106455605925822967.md, tweet-2106412212978098295.md, tweet-2106143340794454346.md, tweet-2106118517447876618.md, tweet-2105721441622884802.md, tweet-2113026278504755415.md, tweet-2109822699174559748.md, tweet-2113949078866518310.md, tweet-2116614296050213115.md]
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 # Claude Code Mods
@@ -73,3 +73,9 @@ Die gespeicherte README zeigt den Mod-Installationsweg der Vorlagensammlung clau
 Robert Youssef beschreibt Ultra Config als Mod, der Modell, Effort-Stufe, Berechtigungen und Subagents von [Claude Code](Claude%20Code.md) über ein Profil umschaltet, auch mitten in der Sitzung. Fünf Profile: Token Saver (Sonnet, niedriger Effort, Haiku-Subagents), Fast Flow (automatisch genehmigte Edits), Max Quality (stärkstes Modell, maximaler Effort), Guarded (Freigabe pro Edit, eingeschränkter Zugriff auf Secrets) und Autopilot (lange unbeaufsichtigte Sitzungen mit Push-Benachrichtigungen). Installation: npx claude-code-templates@latest --mod productivity/ultra-config, dann /ultra-config. [tweet-2113949078866518310](../sources/tweet-2113949078866518310.md)
 
 Evidenzgrenze: Das Video hat kein Transkript; die Profilwirkung ist eine Beschreibung des Posts ohne Messung. Verwandt: [Adaptive Reasoning Effort](../concepts/Adaptive%20Reasoning%20Effort.md). [tweet-2113949078866518310](../sources/tweet-2113949078866518310.md)
+
+## Chat Session Mod (Stand 2026-10)
+
+Daniel Avila beschreibt den Chat-Session-Mod als Werkzeug, das bei mehreren [Claude Code](Claude%20Code.md)-Sessions und -Panels sichtbar macht, welche Sessions miteinander kommunizieren, und so den Kommunikationsfluss zwischen ihnen zeigt. Installation: npx claude-code-templates@latest --mod productivity/session-chats. [tweet-2116614296050213115](../sources/tweet-2116614296050213115.md)
+
+Evidenzgrenze: Das Demo-Video hat kein Transkript, ein Link oder README fehlt in Raw; die Funktion ist nur im Post beschrieben. Verwandt: [Rex Claude](Rex%20Claude.md) (Skill zur Koordination mehrerer Sessions). [tweet-2116614296050213115](../sources/tweet-2116614296050213115.md)

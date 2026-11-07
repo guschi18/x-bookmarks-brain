@@ -1,20 +1,20 @@
 {
-  "pages": 904,
-  "sources": 526,
-  "edges": 2555,
-  "updated": "2026-11-01",
+  "pages": 913,
+  "sources": 532,
+  "edges": 2576,
+  "updated": "2026-11-02",
   "topics": [
     {
       "tag": "tools",
-      "count": 712
+      "count": 721
     },
     {
       "tag": "agents",
-      "count": 666
+      "count": 673
     },
     {
       "tag": "product-building",
-      "count": 315
+      "count": 317
     },
     {
       "tag": "research",
@@ -26,7 +26,7 @@
     },
     {
       "tag": "marketing",
-      "count": 65
+      "count": 66
     },
     {
       "tag": "security",
@@ -48,15 +48,15 @@
   "knowledge_topics": [
     {
       "tag": "tools",
-      "count": 308
+      "count": 311
     },
     {
       "tag": "agents",
-      "count": 263
+      "count": 265
     },
     {
       "tag": "product-building",
-      "count": 136
+      "count": 137
     },
     {
       "tag": "research",
@@ -511,7 +511,7 @@
         "agents",
         "tools"
       ],
-      "degree": 5,
+      "degree": 6,
       "path": "entities/Book to Skill.md"
     },
     {
@@ -659,7 +659,7 @@
         "agents",
         "tools"
       ],
-      "degree": 26,
+      "degree": 30,
       "path": "entities/Claude Code Mods.md"
     },
     {
@@ -680,7 +680,7 @@
         "agents",
         "tools"
       ],
-      "degree": 304,
+      "degree": 309,
       "path": "entities/Claude Code.md"
     },
     {
@@ -931,6 +931,16 @@
       "path": "entities/Component Gallery.md"
     },
     {
+      "name": "Copilot Record a Skill",
+      "group": "entities",
+      "tags": [
+        "tools",
+        "product-building"
+      ],
+      "degree": 3,
+      "path": "entities/Copilot Record a Skill.md"
+    },
+    {
       "name": "Dash",
       "group": "entities",
       "tags": [
@@ -970,6 +980,16 @@
       ],
       "degree": 3,
       "path": "entities/Deepsec.md"
+    },
+    {
+      "name": "DeepSeek Superagent",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 4,
+      "path": "entities/DeepSeek Superagent.md"
     },
     {
       "name": "DeepTutor",
@@ -2506,7 +2526,7 @@
         "agents",
         "tools"
       ],
-      "degree": 7,
+      "degree": 9,
       "path": "entities/REA.md"
     },
     {
@@ -2517,6 +2537,16 @@
       ],
       "degree": 2,
       "path": "entities/Reclip.md"
+    },
+    {
+      "name": "Rex Claude",
+      "group": "entities",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 5,
+      "path": "entities/Rex Claude.md"
     },
     {
       "name": "Riley Todo Skill",
@@ -2956,7 +2986,7 @@
         "agents",
         "tools"
       ],
-      "degree": 7,
+      "degree": 10,
       "path": "entities/Treg.md"
     },
     {
@@ -3230,7 +3260,7 @@
         "agents",
         "tools"
       ],
-      "degree": 27,
+      "degree": 28,
       "path": "concepts/Agent Workflow Graphs.md"
     },
     {
@@ -3324,7 +3354,7 @@
         "tools",
         "product-building"
       ],
-      "degree": 54,
+      "degree": 55,
       "path": "concepts/AI Coding Cost Claims.md"
     },
     {
@@ -9431,6 +9461,16 @@
       "path": "sources/tweet-2115424619460997188.md"
     },
     {
+      "name": "tweet-2115901221181825265",
+      "group": "sources",
+      "tags": [
+        "tools",
+        "product-building"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2115901221181825265.md"
+    },
+    {
       "name": "tweet-2115917643656179998",
       "group": "sources",
       "tags": [
@@ -9439,6 +9479,57 @@
       ],
       "degree": 2,
       "path": "sources/tweet-2115917643656179998.md"
+    },
+    {
+      "name": "tweet-2116122945605222637",
+      "group": "sources",
+      "tags": [
+        "marketing",
+        "agents",
+        "tools"
+      ],
+      "degree": 3,
+      "path": "sources/tweet-2116122945605222637.md"
+    },
+    {
+      "name": "tweet-2116229574614757747",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2116229574614757747.md"
+    },
+    {
+      "name": "tweet-2116352019564777669",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2116352019564777669.md"
+    },
+    {
+      "name": "tweet-2116614296050213115",
+      "group": "sources",
+      "tags": [
+        "tools",
+        "agents"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2116614296050213115.md"
+    },
+    {
+      "name": "tweet-2116905923109089285",
+      "group": "sources",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "degree": 2,
+      "path": "sources/tweet-2116905923109089285.md"
     }
   ],
   "links": [
@@ -11012,6 +11103,10 @@
     ],
     [
       "Claude Code",
+      "AI Coding Cost Claims"
+    ],
+    [
+      "Claude Code",
       "Agent Orchestrator"
     ],
     [
@@ -11475,6 +11570,10 @@
       "tweet-2114910356170522999"
     ],
     [
+      "Claude Code",
+      "tweet-2116229574614757747"
+    ],
+    [
       "Claude Code Best Practice",
       "Agentic Engineering"
     ],
@@ -11528,6 +11627,10 @@
     ],
     [
       "Claude Code Mods",
+      "Rex Claude"
+    ],
+    [
+      "Claude Code Mods",
       "Session History Review"
     ],
     [
@@ -11561,6 +11664,10 @@
     [
       "Claude Code Mods",
       "tweet-2113949078866518310"
+    ],
+    [
+      "Claude Code Mods",
+      "tweet-2116614296050213115"
     ],
     [
       "Claude Code Security Hardening",
@@ -12339,6 +12446,14 @@
       "tweet-2113990583241125942"
     ],
     [
+      "Copilot Record a Skill",
+      "Book to Skill"
+    ],
+    [
+      "Copilot Record a Skill",
+      "tweet-2115901221181825265"
+    ],
+    [
       "DaVinci Resolve",
       "Agentic Video Production"
     ],
@@ -12377,6 +12492,18 @@
     [
       "David Ondrej Skills",
       "tweet-2074049148765016255"
+    ],
+    [
+      "DeepSeek Superagent",
+      "Agent Workflow Graphs"
+    ],
+    [
+      "DeepSeek Superagent",
+      "Claude Code"
+    ],
+    [
+      "DeepSeek Superagent",
+      "tweet-2116905923109089285"
     ],
     [
       "DeepTutor",
@@ -15303,6 +15430,18 @@
       "tweet-2113509229298602311"
     ],
     [
+      "Rex Claude",
+      "Claude Code"
+    ],
+    [
+      "Rex Claude",
+      "Claude Code Mods"
+    ],
+    [
+      "Rex Claude",
+      "tweet-2116352019564777669"
+    ],
+    [
       "Riley Todo Skill",
       "Claude Code"
     ],
@@ -15928,6 +16067,10 @@
     ],
     [
       "Treg",
+      "REA"
+    ],
+    [
+      "Treg",
       "tweet-2101988972977434683"
     ],
     [
@@ -15937,6 +16080,10 @@
     [
       "Treg",
       "tweet-2104526472815968694"
+    ],
+    [
+      "Treg",
+      "tweet-2116122945605222637"
     ],
     [
       "Typed Decision Layer",
@@ -19659,8 +19806,36 @@
       "FFmpeg Skill"
     ],
     [
+      "tweet-2115901221181825265",
+      "Copilot Record a Skill"
+    ],
+    [
       "tweet-2115917643656179998",
       "Scrolling as Anesthesia"
+    ],
+    [
+      "tweet-2116122945605222637",
+      "REA"
+    ],
+    [
+      "tweet-2116122945605222637",
+      "Treg"
+    ],
+    [
+      "tweet-2116229574614757747",
+      "Claude Code"
+    ],
+    [
+      "tweet-2116352019564777669",
+      "Rex Claude"
+    ],
+    [
+      "tweet-2116614296050213115",
+      "Claude Code Mods"
+    ],
+    [
+      "tweet-2116905923109089285",
+      "DeepSeek Superagent"
     ]
   ]
 }
